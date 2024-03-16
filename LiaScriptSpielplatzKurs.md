@@ -21,7 +21,7 @@ translation: Deutsch  translations/German.md
 translation: Français translations/French.md
 -->
 
-# Course Main Titel
+# Course Main Title
 
 This is your **course** initialization stub.
 
