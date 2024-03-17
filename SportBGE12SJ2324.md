@@ -178,7 +178,7 @@ Einige mögliche Gruppentaktiken in der Verteidigung im Basketball sind:
 ![Alt text](assets/Cram.png)
 Zum Lernen der Karten wählen Sie auf der Webseite oben rechts unter New cards den Menüpunkt `Cram` aus.
 
-![Alt text](image.png)
+![Alt text](assets/rueckhandDrive.png)
 Um eine Karteikarte umzublättern klicken Sie diese einfach an.
 
 Mit Hilfe der Rückseite überprüfen Sie, ob Sie die Antwort gewusst oder nicht gewusst haben.
@@ -375,59 +375,135 @@ Offensive Lifts haben das Ziel, den Ball hinter den Gegner zu schlagen, sodass f
 Defensive, hohe Lifts bewegen den Gegner an die Grundlinie und bringen selbst Zeit, sich wieder in eine gute Position für den nächsten Schlag zu bringen.
 
 **Wie sieht der Rückhandlift aus?**
-![[rueckhandLift.png]]
+![Bild:Rückhandlift](assets/rueckhandLift.png)
 
 **Wie sieht der Vorhandlift aus?**
-![[vorhandLift.png]]
+![Bild: Vorhandlift](assets/vorhandLift.png)
+
 #### 1. Stundenbegin
 
 - **Ablauf**
-	- Lehrperson erklärt die wesentlichen Inhalte dieser Stunde:
-		- Einführung des Rückhand- Lift von unterhalb der Netzkante hoch in das Hinterfeld. Dieser Schlag gibt dem Spieler genügend Zeit, um in den zentralen Bereich zurückzulaufen, bevor der Gegner den Ball schlägt.
+  
+  - Lehrperson erklärt die wesentlichen Inhalte dieser Stunde:
+  - Einführung des Rückhand- Lift von unterhalb der Netzkante hoch in das Hinterfeld. Dieser Schlag gibt dem Spieler genügend Zeit, um in den zentralen Bereich zurückzulaufen, bevor der Gegner den Ball schlägt.
+
 - **Hinweise**
-	- Erkläre und demonstriere die Technik Rückhand Lift.
-	- Unterstreiche, dass der Schlag dazu dient, hoch und weit in das Hinterfeld zu spielen.
+  
+  - Erkläre und demonstriere die Technik Rückhand Lift.
+  - Unterstreiche, dass der Schlag dazu dient, hoch und weit in das Hinterfeld zu spielen.
 
 #### 2. Rückhand Lift
 
 - **Ablauf**
-	- Einführung und Training des Rückhand- Lift: Jeder Schüler hat einen Schläger und einen Ball und schlägt den Ball mit der Rückhand fortlaufend so hoch wie möglich nach oben.
-	- Im nächsten Schritt gehen die Übenden zu zweit zusammen. Ein Übender wirft zu und der andere trainiert Rückhand Lift so hoch und weit nach hinten wie möglich.
-	- Nun darf der Zuwerfer im Augenblick des Schlages schnell ins Hinterfeld laufen und versuchen, den Ball zu fangen.
-	- Wechsel nach 12 Schlägen.
+  
+  - Einführung und Training des Rückhand- Lift: Jeder Schüler hat einen Schläger und einen Ball und schlägt den Ball mit der Rückhand fortlaufend so hoch wie möglich nach oben.
+  - Im nächsten Schritt gehen die Übenden zu zweit zusammen. Ein Übender wirft zu und der andere trainiert Rückhand Lift so hoch und weit nach hinten wie möglich.
+  - Nun darf der Zuwerfer im Augenblick des Schlages schnell ins Hinterfeld laufen und versuchen, den Ball zu fangen.
+  - Wechsel nach 12 Schlägen.
+  
 - **Hinweise**
-	- Auf die korrekte Griffhaltung achten.
-	- Weder ein Netz noch Feldlinien sind notwendig. Sicherlich hilft, die Entfernung mit Gegenständen zu markieren.
-	- Falls notwendig, kann man den Schwierigkeitsgrad erhöhen, indem man die Beinbewegung hinzunimmt.
+  
+  - Auf die korrekte Griffhaltung achten.
+  - Weder ein Netz noch Feldlinien sind notwendig. Sicherlich hilft, die Entfernung mit Gegenständen zu markieren.
+  - Falls notwendig, kann man den Schwierigkeitsgrad erhöhen, indem man die Beinbewegung hin zu nimmt.
 
 #### 3. Vorhand-Lift
 
 - **Ablauf**
-	- Einführung und Training des Vorhand- Lift: Jeder Schüler hat einen Schläger und einen Ball und schlägt den Ball mit der Rückhand fortlaufend so hoch wie möglich nach oben.
-	- Im nächsten Schritt gehen die Übenden zu zweit zusammen. Ein Übender wirft zu und der andere trainiert Rückhand Lift so hoch und weit nach hinten wie möglich.
-	- Nun darf der Zuwerfer im Augenblick des Schlages schnell ins Hinterfeld laufen und versuchen, den Ball zu fangen.
-	- Wechsel nach 12 Schlägen.
+
+  - Einführung und Training des Vorhand- Lift: Jeder Schüler hat einen Schläger und einen Ball und schlägt den Ball mit der Rückhand fortlaufend so hoch wie möglich nach oben.
+  - Im nächsten Schritt gehen die Übenden zu zweit zusammen. Ein Übender wirft zu und der andere trainiert Rückhand Lift so hoch und weit nach hinten wie möglich.
+  - Nun darf der Zuwerfer im Augenblick des Schlages schnell ins Hinterfeld laufen und versuchen, den Ball zu fangen.
+  - Wechsel nach 12 Schlägen.
+
 - **Hinweise**
-	- Auf die korrekte Griffhaltung achten.
-	- Weder ein Netz noch Feldlinien sind notwendig. Sicherlich hilft, die Entfernung mit Gegenständen zu markieren.
-	- Falls notwendig, kann man den Schwierigkeitsgrad erhöhen, indem man die Beinbewegung hinzunimmt.
+
+  - Auf die korrekte Griffhaltung achten.
+  - Weder ein Netz noch Feldlinien sind notwendig. Sicherlich hilft, die Entfernung mit Gegenständen zu markieren.
+  - Falls notwendig, kann man den Schwierigkeitsgrad erhöhen, indem man die Beinbewegung hinzunimmt.
 
 #### 4. Aus dem Netzspiel einen Lift Spielen
 
 - **Ablauf**
-	- Die Schüler spielen paarweise Ballwechsel im Vorderfeld.
-	- Sie dürfen statt Netzdrop auch einen Lift spielen, der jedoch zwischen zwei Markierungen im Hinterfeld fallen muss.
-	- Der Spieler, dem dies gelingt, erhält einen Punkt. Trifft er nicht in den Zielbereich, wird ein Punkt abgezogen. Nach jedem Lift endet der Ballwechsel.
-	- Variation des Spiels – sobald der Lift gespielt wurde, darf der andere Spieler versuchen, den Ball zu fangen, um selbst einen Punkt zu erhalten.
-- **Hinweise**
-	- Regelmäßig Partner wechseln, damit die einzelnen Spiele nicht zu lang werden.
-	- Variante: Schüler können ihre Punkte mit ins nächste Spiel nehmen, sodass immer weitergezählt wird.
 
----
+  - Die Schüler spielen paarweise Ballwechsel im Vorderfeld.
+  - Sie dürfen statt Netzdrop auch einen Lift spielen, der jedoch zwischen zwei Markierungen im Hinterfeld fallen muss.
+  - Der Spieler, dem dies gelingt, erhält einen Punkt. Trifft er nicht in den Zielbereich, wird ein Punkt abgezogen. Nach jedem Lift endet der Ballwechsel.
+  - Variation des Spiels – sobald der Lift gespielt wurde, darf der andere Spieler versuchen, den Ball zu fangen, um selbst einen Punkt zu erhalten.
+
+- **Hinweise**
+
+  - Regelmäßig Partner wechseln, damit die einzelnen Spiele nicht zu lang werden.
+  - Variante: Schüler können ihre Punkte mit ins nächste Spiel nehmen, sodass immer weiter gezählt wird.
+
+
+### S4 Drives im Mittelfeld
+
+**Wohin fliegt der Ball?**
+
+Drives sind flache Schläge, die in der Regel von einem Mittelfeld in das gegnerische Mittelfeld oder Hinterfeld fliegen.
+
+**Wann brauchen wir den Schlag?**
+
+Drives werden vor allem in neutralen Situationen angewendet, wenn der Ball weder hoch genug getroffen werden
+kann, um anzugreifen, noch so tief abgenommen werden muss, dass man defensiv spielen muss. Der Schlag kann sowohl neben dem Körper als auch direkt vor dem Körper ausgeführt werden.
+
+**Warum brauchen wir den Schlag**
+
+Rückhand Drives werden angewendet:
+
+- Um dem Gegner keine Angriffsmöglichkeit zu geben.
+- Um durch den Schlag selbst eine Angriffssituation herzustellen, indem man den Drive in eine Lücke oder gefährlich auf den Körper spielt.
+
+**Wie sieht ein Rückhand Drive aus**
+
+![Bild: Rückhand Drive](assets/rueckhandDrive.png)
+
+**Wie sieht ein Vorhand Drive aus**
+
+![Bild: Vorhand Drive](assets/vorhandDrive.png)
+
+#### 1. Stundenbeginn
+
+- **Ablauf**
+
+  - Die Lehrperson erklärt die Technik des Vorhand- und Rückhand-Drives und macht die Schläge vor.
+  - Die Lehrperson demonstriert die Bereitschaftsstellung im Mittelfeld und die schnellen Griffwechsel
+
+- **Hinweise**
+    
+  - Bereitschaftsstellung leicht gebeugte Knie und etwas nach vorn gebeugte Oberkörper deutlich über der hand
+  - Schnelle Griffwechsel und kurze Schlagbewegungen 
+
+#### 2. Schlagübung zum Racketspeed
+
+- **Ablauf**
+
+  - Die Lernenden spielen paarweise Ballwechsel im Mittelfeld mit Vorhand- oder Rückhand- Drives. Sie spielen ohne Netz in einem Abstand von 5-6 Meter.
+
+- **Hinweise**
+
+  - Bereitschaftsstellung besonders hervorheben.
+  - Schläger ist vor dem Körper, Ellenbogen wird nicht an den Körper gezogen.
+  - Lockerlassen - Zufassen der Finger als wichtiges Hilfsmittel um schnellkräftig zu schlagen.
+
+
+#### 3. Wie viele Schläge in einer Minute?
+
+- **Ablauf**
+
+  - Es werden Paare gebildet, die sich jeweils 2,5
+  Meter vom Netz entfernt gegenüberstehen. Ziel ist es, in einer Minute miteinander maximal viele Schläge zu schaffen.Bei einem Fehler hebt man den Ball auf und zählt weiter.
+
+- **Hinweise**
+
+  - Mit 30 Sekunden beginnen und dann langsam steigern. Auf eine gute Mischung aus Sicherheit und Tempo achten.
+  - Regelmäßig den Partner wechseln.
+
+#### 4. Freies Spiel
 
 ## Schwimmen
 
----
 
 ## Inhaltsfeld (Themenfeld) Outdoor
 
