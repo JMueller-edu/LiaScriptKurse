@@ -23,6 +23,7 @@ import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/READ
 
 # Sport BG E12.1 Schuljahr 23/24 1. Halbjahr
 
+
 ## Basketball - Taktik
 
 ![Alt text](assets/Basketball_Taktik.jpg)
@@ -244,7 +245,6 @@ Mit Hilfe der Rückseite überprüfen Sie, ob Sie die Antwort gewusst oder nicht
 | [[ Pick and Roll | Give and Go | Mann-Mann-Verteidigung | (Zonen-Verteidigung) ]] |  Dies ist eine Gruppentaktik, bei der die Spieler nicht einen bestimmten Gegenspieler, sondern einen bestimmten Raum auf dem Spielfeld verteidigen. Dabei teilen sich die Spieler das Spielfeld in verschiedene Zonen auf, die sie je nach Position und Situation übernehmen. Ziel ist es, den Zugang zum Korb zu erschweren, Pässe abzufangen oder Würfe zu blockieren.|
 | [[(Pick and Roll) | Give and Go | Mann-Mann-Verteidigung | Zonen-Verteidigung ]] |Dies ist eine Gruppentaktik, die durch zwei Spieler ausgeführt wird. Dabei stellt ein Spieler seinem Mitspieler (dem Ballführer) einen Block, um ihn vom Verteidiger freizubekommen. Anschließend löst sich der Blocksteller vom Block und läuft zum Korb. Der Ballführer kann dann entweder selbst werfen oder den Blocksteller anspielen. |
 | [[ Pick and Roll | Give and Go | (Mann-Mann-Verteidigung) | Zonen-Verteidigung ]] | Dies ist eine Gruppentaktik, bei der jeder Spieler einen bestimmten Gegenspieler direkt verteidigt. Dabei versucht der Verteidiger, den Angreifer am Ballbesitz, am Dribbling, am Passen oder am Werfen zu hindern. Ziel ist es, den Gegner unter Druck zu setzen, Fehler zu provozieren oder den Ball zu erobern. |
-
 
 # Sport BG E12.1 Schuljahr 23/24 2. Halbjahr
 
@@ -523,8 +523,6 @@ Rückhand Drives werden angewendet:
 
 - Mountainbike fahren
 
----
-
 ### Mögliche Themenfelder
 
 - E.1 Grundlagen des Bewegungslernens
@@ -533,5 +531,4 @@ Rückhand Drives werden angewendet:
 - E.4 Grundlagen sportlicher Leistung – Koordination
 - E.5 Grundlagen sportlicher Leistung – Kondition
 
----
 
