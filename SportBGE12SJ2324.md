@@ -504,6 +504,24 @@ Rückhand Drives werden angewendet:
 
 ## Schwimmen
 
+### Organisation 
+
+**Veranstaltungszeit**
+13:00 - 14:30 Uhr
+Ab 14 Uhr sind wir nicht mehr allein im Becken.
+
+**Treffpunkt**
+13:00 Uhr vor dem Hallenbad
+
+**Mitzubringen**
+
+- Schwimmbekleidung
+- Badelatschen (der Boden ist sehr rutschig)
+- Schwimmbrille, da die Augen definitiv nass werden.
+- wer sich das föhnen sparen mag eine Badekappe 
+- etwas zum Überziehen Aufenthalte außerhalb des Wassers (Bademantel, Saunatuch)
+- 2€ Stück für den Spind
+- Duschzeug
 
 ## Inhaltsfeld (Themenfeld) Outdoor
 
