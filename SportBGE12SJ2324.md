@@ -518,30 +518,29 @@ Ab 14 Uhr sind wir nicht mehr allein im Becken.
 - Schwimmbekleidung
 - Badelatschen (der Boden ist sehr rutschig)
 - Schwimmbrille, da die Augen definitiv nass werden.
-- wer sich das föhnen sparen mag eine Badekappe 
-- etwas zum Überziehen Aufenthalte außerhalb des Wassers (Bademantel, Saunatuch)
+- wer sich das Föhnen sparen mag, eine Badekappe 
+- etwas zum Überziehen, für Aufenthalte außerhalb des Wassers (Bademantel, Saunatuch)
 - 2€ Stück für den Spind
 - Duschzeug
 
 ## Inhaltsfeld (Themenfeld) Outdoor
 
-### Mögliche Inhaltsfelder
+**Mögliche Inhaltsfelder**
 
-**Spielen**
+- Spielen
 
-- Endzonen-Spiele (Flag Football, Ultimate-Frisbee)
-  Im Sportpark Erbach
+    - Endzonen-Spiele (Flag Football, Ultimate-Frisbee) Im Sportpark Erbach
   
-**Laufen, Springen, Werfen**
+- Laufen, Springen, Werfen
 
-- Leichtathletik 
-- Orientierungslaufen
+    - Leichtathletik 
+    - Orientierungslaufen
 
-**Fahren, Rollen, Gleiten**
+- Fahren, Rollen, Gleiten
 
-- Mountainbike fahren
+    - Mountainbike fahren
 
-### Mögliche Themenfelder
+**Mögliche Themenfelder**
 
 - E.1 Grundlagen des Bewegungslernens
 - E.2 Kooperation und Konkurrenz im Sportspiel 
