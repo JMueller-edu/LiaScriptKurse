@@ -179,8 +179,53 @@ else {
   eval(`@input(0)`);
 </script>
 
+## Drawings
+
+
+
+## Arbeitsblätter
+
+[Arbeitsblatt Onedrive](https://bsomichelstadtde-my.sharepoint.com/:b:/g/personal/jan_mueller_bso-michelstadt_de/EbhvLBPghXBFi7YxYfdnIt0B3Jlpj1q98NT5s03QBnkeRg?e=DCcuDH)
+
+[Arbeitsblatt Adobe Cloud](https://acrobat.adobe.com/id/urn:aaid:sc:EU:7f2cf90b-de98-4f80-a0d4-bbf09e63bf7e)
+
 ## More
 
 Find out what you can even do more with quizzes:
 
 https://liascript.github.io/course/?https://raw.githubusercontent.com/liaScript/docs/master/README.md
+
+## Quizzes
+
+    {{1-2}}
+*******************************************************************
+
+Zu welcher Hypervisor-Kategorie gehört der Microsoft Virtual PC?
+
+[[ ]] Typ 1
+[[ ]] Typ 2
+[[ ]] Typ 3
+[[ ]] Typ 4
+
+********************************************************************
+
+    {{2}}
+**********************************************************************
+
+Welche Aussage beschreibt ein Merkmal von Cloud Computing?
+
+[[ ]] Ein Unternehmen kann sich direkt mit dem Internet verbinden, ohne einen ISP zu verwenden.
+[[ ]] Auf Anwendungen kann über das Internet über ein Abonnement zugegriffen werden.
+[[ ]] Geräte können über vorhandene elektrische Leitungen mit dem Internet verbunden werden.
+[[ ]] Investitionen in eine neue Infrastruktur sind erforderlich, um auf die Cloud zugreifen zu können.
+
+*************************************************************************
+## Animation
+
+     {{1}}
+This is an example for a *single* block animations.
+
+     {{2-3}}
+This one will appear on animation step 2 and disappear on 3.
+
+{{4}} This is also ok, but it will look be harder to spot on GitHub.

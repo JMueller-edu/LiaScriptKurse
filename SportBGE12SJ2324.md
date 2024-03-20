@@ -11,7 +11,7 @@ language: Deutsch
 
 narrator: Deutsch Female
 
-comment:  Bei der Erstellung dieser Arbeitsmaterialien wurde Bing-Chat verwendet. Als Initial-Prompts wurden meist die im Text befindlichen Überschriften in Frageform verwendet. 
+comment:  Bei der Erstellung dieser Arbeitsmaterialien wurde teilweise Bing-Chat verwendet. Als Initial-Prompts wurden meist die im Text befindlichen Überschriften in Frageform verwendet. 
 
 link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
@@ -364,23 +364,28 @@ timeline
 ### S3 Rückhand- und Vorhandlift
 
 **Wohin fliegt der Ball?**
+
 Lifts fliegen vom Netz weg ins Hinterfeld. Offensive Lifts sind gefährlich für den Gegner, wenn sie knapp über seine Reichhöhe fliegen. Defensive Lifts fliegen deutlich höher über die gegnerische Reichhöhe und den gegnerischen Schläger.
 
 **Wann brauchen wir den Schlag?**
+
 Wenn wir im Vorderfeld sind und den Ball knapp unterhalb der Netzkante schlagen können, haben wir Gelegenheit zu einem offensiven Lift und stellen eine neutrale Situation her.
 Wenn wir im Vorderfeld sind und den Ball deutlich unterhalb der Netzkante schlagen müssen, kann man nur noch einen defensiven Lift spielen, der dann auch eine defensive Situation herstellt.
 
 **Warum brauchen wir den Schlag?**
+
 Offensive Lifts haben das Ziel, den Ball hinter den Gegner zu schlagen, sodass für ihn nur ein schwacher Rückschlag möglich ist.
 Defensive, hohe Lifts bewegen den Gegner an die Grundlinie und bringen selbst Zeit, sich wieder in eine gute Position für den nächsten Schlag zu bringen.
 
 **Wie sieht der Rückhandlift aus?**
+
 ![Bild:Rückhandlift](assets/rueckhandLift.png)
 
 **Wie sieht der Vorhandlift aus?**
+
 ![Bild: Vorhandlift](assets/vorhandLift.png)
 
-#### 1. Stundenbegin
+#### 1. Stundenbeginn
 
 - **Ablauf**
   
