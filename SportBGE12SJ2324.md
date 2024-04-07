@@ -3,6 +3,8 @@ author: Jan Müller
 
 titel: Sport BG E12.1 Schuljahr 23/24
 
+icon: assets/BSO_LOGO_1.png
+
 email:  SmFuLk11ZWxsZXI0QHNjaHVsZS5oZXNzZW4uZGU= (base64;-)
 
 version:  0.1.0
@@ -20,6 +22,7 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
 
 -->
+
 
 # Sport BG E12.1 Schuljahr 23/24 1. Halbjahr
 
@@ -509,24 +512,353 @@ Rückhand Drives werden angewendet:
 
 ## Schwimmen
 
-**Veranstaltungszeit**
+```@mermaid
+timeline
+          Teilkompetenz Technik des Beinschlags kennen und ausführen
+          : W1 
+          : S
+          : Die Lernenden können den Brustbeinschlag isoliert ausführen.
 
-13:00 - 14:30 Uhr
-Ab 14 Uhr sind wir nicht mehr allein im Becken.
+          Teilkompetenz Technik des Armschlags kennen und ausführen 
+          : W2 
+          : S
+          : Die Lernenden können den Brustarmschlag isoliert ausführen.
 
-**Treffpunkt**
+          Teilkompetenz Technik der Atmung kennen und ausführen.
+          : W3
+          : S
+          : Die Lernenden können die Atmung beim Brustschwimmen isoliert ausführen.
 
-13:00 Uhr vor dem Hallenbad
+          Teilkompetenz Koordination des Brustschwimmen kennen und ausführen
+          : W4
+          : S
+          : Die Lernenden können die Teilbewegungen des Brustschwimmen koordiniert ausführen.
 
-**Mitzubringen**
+          Kompetenz Effektives Brustschwimmen
+          : Die Lernenden können effektiv Brustschwimmen.
 
-- Schwimmbekleidung
-- Badelatschen (der Boden ist sehr rutschig)
-- Schwimmbrille, da die Augen definitiv nass werden.
-- wer sich das Föhnen sparen mag, eine Badekappe 
-- etwas zum Überziehen, für Aufenthalte außerhalb des Wassers (Bademantel, Saunatuch)
-- 2€ Stück für den Spind
-- Duschzeug
+```
+
+### Bade- und Verhaltensregeln
+
+**Allgemeine Baderegeln**
+
+- Gehe nur zum Baden, wenn du dich wohl fühlst. 
+- Kühle Dich ab und dusche, bevor Du ins Wasser gehst.
+- Gehe als Nichtschwimmer nur bis zum Bauch ins Wasser.
+- Überschätze dich und deine Kraft nicht.
+- Bei Gewitter ist Baden lebensgefährlich. Verlasse das Wasser sofort und suche ein festes Gebäude auf.
+- Aufblasbare Schwimmhilfen bieten dir keine Sicherheit im Wasser.
+- Gehe niemals mit vollem oder ganz leerem Magen ins Wasser.
+- Rufe nie um Hilfe, wenn Du nicht wirklich in Gefahr bist, aber hilf anderen, wenn sie Hilfe brauchen.
+- Bade nicht, wo Schiffe und Boote fahren. 
+- Halte das Wasser und seine Umgebung sauber, Abfälle wirf in den Mülleimer. 
+- Springe nur ins Wasser, wenn es tief genug und frei ist.
+
+#### Verhaltensregeln vor dem Schwimmunterricht
+
+- **Treffpunkt**
+  
+   -  13:00 Uhr vor dem Hallenbad
+
+- **Mitzubringen**
+
+  - Schwimmbekleidung
+  - Badelatschen (der Boden ist sehr rutschig)
+  - Schwimmbrille, da die Augen definitiv nass werden.
+  - wer sich das Föhnen sparen mag, eine Badekappe 
+  - etwas zum Überziehen, für Aufenthalte außerhalb des Wassers (Bademantel, Saunatuch)
+  - 2€ Stück als Pfand für den Spind
+  - Duschzeug
+
+-  **Kaugummi und Bonbons aus dem Mund nehmen!**
+
+   - Kaugummi oder Bonbon im Mund können während des Schwimmens zu Atemproblemen bzw. Erstickungsfällen führen.
+
+- **Schmuck ablegen!**
+
+    - Schmuck kann bei der Ausübung von sportlichen Aktivitäten für den Sportler selbst und für andere Personen eine Gefahr bedeuten und deshalb ist das Tragen von Schmuck generell im Sportunterricht gesetzlich verb0ten.
+  
+    - Hinweise für Schüler mit einer Sehschwäche: Beim Schwimmunterricht keine Kontaktlinsen, sondern eine sportgerechte Brille tragen. Schüler mit empfindlichen Augen sollten eine Schwimmbrille benutzen
+
+- **Lange Haare zusammenbinden!**
+  
+    - Langes Haar, das beim Schwimmen offen getragen wird, ist nicht nur ein Problem für die Filteranlage, sondern kann auch die Orientierung und damit die Sicherheit beeinträchtigen.
+  
+- **Vor dem Schwimmen zur Toilette gehen!**
+
+    - Beim Baden ziehen sich die Blutgefäße zusammen. Das lenkt Blut zum Rumpf und regt Dehnungsrezeptoren im Vorhof des Herzens an, ein Überdruck entsteht. Um ihn zu kompensieren wird Harndrang ausgelöst.
+
+- **Vor dem Schwimmen duschen und waschen!**
+
+   - Duschen und Waschen vor dem Schwimmen tragen zur Sauberkeit des Wassers im Schwimmbecken bei.
+  
+   - Hinweise: Kalt Duschen hilft, den „Temperaturschock“ erträglich zu machen.
+
+- **Kranke Lernende ziehen sich vor dem Betreten des Schwimmbereichs um!**
+
+    - Aus hygienischen Aspekten und um bei Aufgabenstellungen ohne Furcht auf Spritzwasser mitmachen zu können, sollten am besten ein T-Shirt und eine kurze Sporthose angezogen werden.
+
+#### Verhaltensregeln beim Schwimmunterricht
+
+- **Im Schwimmbad nur langsam gehen!**
+  
+   - Auf den harten, glitschigen Schwimmbadfliesen besteht eine erhöhte Sturzgefahr, die zu erheblichen Verletzungen führen kann.
+
+- **Nur nach Aufforderung der Lehrkraft ins Wasser gehen!**
+
+   - Da der Lehrer verantwortlich für die Sicherheit ist entscheidet er, wann ins Wasser gegangen wird.
+
+- **Wenn die Lehrkraft nicht da ist, an den vereinbarten Bereichen (abseits des Beckens) aufhalten!**
+
+   - Bei Gefahren kann die Lehrkraft keine Hilfeleistung durchführen.
+
+- **Vor und nach dem Toilettenbesuch Ab- und Zurückmelden!**
+
+   - Dies ist notwendig, damit der Lehrer seiner Aufsichtspflicht nachkommen kann. Denn nur wenn er darüber informiert ist, dass ein Schüler den Bereich verlässt, den er einsehen kann, kann er auch dieser Aufgabe nachkommen und ggf. Hilfe leisten.
+
+- **Kopfsprünge nur in den tiefen Teil des Beckens (< 1,80 m Wassertiefe) ausführen!**
+
+   - Es besteht durch das tiefere Eintauchen eine erhöhte Gefahr mit dem Kopf auf den Grund zu schlagen. Im unglücklichsten Fall wird die Person bewusstlos und kann ertrinken.
+
+
+### Technik des Brust-Beinschlags
+
+**Bewegungsbeschreibung**
+
+!?[Breaststroke Swimming Technique | Kick](https://www.youtube.com/watch?v=BJj9z4n0STk)
+
+Je stärker dein Beinschlag ist, desto mehr Vortrieb wirst du erzielen und desto schneller wirst du schwimmen können. 
+
+1. Beuge deinen Fuß, ziehe deine Zehen zu Beginn des Beinschlags zu deinen Schienbeinen, während du deine Fersen so nah wie möglich an deinem Gesäß hältst. 
+2. Wenn sich deine Beine nach außen und hinten ausdehnen, drücke das Wasser mit den Sohlen deiner Füße nach hinten, um deinen Körper zu beschleunigen und vorwärts zu treiben.
+3. Strecke deine Zehen am Ende des Beinschlags, wenn deine Beine sich strecken und deine Knöchel zusammenkommen. 
+4. Versuche, die Sohlen deiner Füße so weit wie die Flexibilität deiner Knöchel es zulässt, einander gegenüberzustellen, um die Erholungsphase des Tritts abzuschließen. 
+5. Beuge deine Beine, halte deine Knie so nah wie möglich zusammen, während du deine Fersen zu deinem Gesäß hochziehst.
+
+**Beobachtungsmerkmalen**
+
+- Gleiten mit gestreckten Bein- und Fußhaltung
+- Die Fersen werden eng in Richtung Gesäß bewegt.
+- Die Füße und Unterschenkel drehen und schwingen nach außen, die Zehen werden zu den Scheinbeinen hin gebeugt.
+- Abdruck von Widerlager Wasser durch schwungvolles und bogenförmiges Kreisen der Beine und Füße nach hinten zur vollkommen Schließung und Streckung.
+
+#### Korrekturmöglichkeiten eines Scherbeinschlags
+
+**Ungünstige Ausführung**
+
+- Scherenbeinschlag mit gestrecktem Fuß
+
+**Folgen:**
+
+- Kein regelgerechter Beinschlag
+- Die Knie werden zu weit geöffnet
+- hohe Bremswirkung gegen die Schwimmrichtung
+- Das Antriebspotenzial wird nicht ausgeschöpft
+
+**Korrekturhilfen:**
+
+- Bauchlage auf einer Bank (z.B. Wärmebank in der Schwimmhalle):  
+
+  - Die Kante der Unterlage muss in den Hüftwinkel passen! So können die Oberschenkel frei bewegt werden. 
+  - Anfersen und kreisförmige Schwungbewegung nach hinten bis zum Zusammenschluss der Beine durchführen
+  - Durch die Unterlage kann evtl. das "Gefühl" für die Position der Hüftachse verbessert werden.
+
+#### Korrekturmöglichkeit des Hüftwinkels
+
+**Ungünstige Ausführung**
+
+- Die Oberschenkel werden zu weit unter den Körper angebeugt (Der Hüftwinkel ist zu spitz)
+
+**Folgen:**
+
+- Die Oberschenkel verursachen einen relativ großen Bremswiderstand gegen die Bewegung.
+
+**Korrekturhilfen:**
+
+- Bauchlage auf dem Boden:
+
+  - Anfersen und kreisförmige Schwungbewegungen nach hinten bis zum Zusammenschluss der Beine durchführen
+  
+    - Diese Übung könnte als Überkorrektur oder Kontraübung wirkden, da beim Anfrersen kein Hüftwinkel möglich ist.
+
+- Übung mit dem Brett als Orientierungshilfe in Rücklage:
+
+  - Das Brett über die Hüfte halten
+  
+    - Die Körperorientierung zu Brett verhindert eine mögliche Sitzhaltung 
+
+#### Übung Tombstone-Drill-Kick
+
+Der **Tombstone-Drill-Kick** ist eine großartige Übung, um an deiner **Beinschlagtechnik** zu arbeiten und gleichzeitig deine Beine zu stärken. Dieser Drill kann dir helfen, mehr Kraft in deinem Beinschlag zu entwickeln und dich schneller durch das Wasser zu bewegen. 
+
+!?[Breaststroke Swimming Drills | Tombstone](https://www.youtube.com/watch?v=DlOYra6AtRs&list=PLN1uwpFCUEh3uTaQFw2pPJzmbjvi7Bm7n&index=20)
+
+Hier nochmal die Schritte für den Tombstone-Drill-Kick:
+
+1. **Ausgangsposition**:
+
+   - Beginne im Wasser, entweder im flachen Bereich des Pools oder im tiefen Wasser.
+   - Halte einen **Kickboard** (Schwimmbrett) vor dir.
+
+2. **Tombstone-Position**:
+
+   - Halte das Kickboard **senkrecht** vor dir, sodass es wie ein Grabstein aussieht.
+   - Du kannst die **Tiefe** des Kickboards anpassen, um den Drill schwieriger zu gestalten.
+
+3. **Beinschlag**:
+
+   - Führe den Beinschlag aus:
+
+     - Halte deine Beine gestreckt und deine Füße zusammen.
+
+     - Mache einen kontinuierlichen Beinschlag, als ob du **Freistil** schwimmen würdest.
+
+     - Achte darauf, dass es keine Pausen in deinem Beinschlag gibt.
+
+4. **Herausforderung**:
+
+   - Der Trick beim Tombstone-Drill besteht darin, dass das senkrechte Kickboard den Wasserwiderstand erhöht.
+   - Versuche, deinen Beinschlag trotzdem gleichmäßig und kraftvoll zu halten.
+
+5. **Wiederholungen**:
+
+   - Wiederhole den Tombstone-Drill-Kick für mehrere Zyklen, um deine Beinschlagtechnik zu verbessern.
+   - Achte darauf, dass du gleichmäßig atmest und den Rhythmus beibehältst.
+
+Denke daran, dass dieser Drill dazu dient, deine Beinschlagtechnik zu verfeinern und deine Beine zu stärken.
+
+### Technik des Brust-Armschlags
+
+**Bewegungsbeschreibung**
+!?[Breaststroke Swimming Technique | Stroke](https://www.youtube.com/watch?v=mFFxTuaMpDQ)
+
+1. Strecke deine Arme an der Vorderseite des Zuges aus, wobei deine Hände leicht nach außen gedreht sind und deine Ellbogen hoch gehalten werden. 
+2. Führe deine Arme nach außen, wobei du dich darauf konzentrierst, so viel Wasser wie möglich mit deinen Händen zu fangen. 
+3. Beschleunige deine Arme rückwärts und halte das Wasser fest, bis deine Hände und Unterarme vor deinem Körper nach innen fegen.
+4. Mit eingezogenen Ellbogen strecke deine Arme zur Vorderseite des Zuges aus und halte sie so nah wie möglich zusammen.
+
+**Beobachtungsmerkmale**
+
+- Symmetrischer Armzug
+- Hände und Ellenbogen werden etwa auf Höhe des Schultergürtels nach innen gedrückt
+- Keine Pause zwischen Zug- und Vorschubphase der Arme/Hände.
+- Kopf und Schultern werden erst im Verlauf der Zugphase angehoben
+
+#### Übung Breast Arms with Front Crawl Legs (BAFL)
+
+Der **Schwimmdrill "Breast Arms with Front Crawl Legs" (BAFL)** ist eine Übung, die darauf abzielt, die Koordination und den Timing deines Brustschwimmzugs zu verbessern. Gleichzeitig wird dein Wassergefühl gestärkt, und du profitierst von einem schnelleren Armzyklus.
+
+!?[Video Breaststroke Swimming Drills | Breaststroke Arms with Front Crawl Legs (BAFL)](https://www.youtube.com/watch?v=s5kzMmxg8E4&list=PLN1uwpFCUEh3uTaQFw2pPJzmbjvi7Bm7n&index=6)
+
+Hier noche einmal die Schritte für den BAFL-Drill:
+
+1. **Ausgangsposition**:
+   
+   - Beginne im Wasser, entweder im flachen Bereich des Pools oder im tiefen Wasser.
+   - Du kannst Flossen verwenden, um die Bewegung zu beschleunigen.
+
+
+2. **Brustschwimmarme**:
+   
+   - Führe den Brustschwimmzug mit deinen Armen aus:
+
+     - Starte mit den Händen vor deinem Körper.
+
+     - Drücke die Hände nach außen und dann nach hinten.
+
+     - Beuge die Ellbogen und ziehe die Hände zurück zum Körper.
+
+     - Wiederhole diese Bewegung kontinuierlich.
+
+3. **Kraulbeine**:
+   
+   - Führe die Beinschlagbewegung des Kraulschwimmens aus:
+
+     - Halte deine Beine gestreckt und deine Füße zusammen.
+
+     - Mache einen kontinuierlichen Beinschlag, als ob du Kraul schwimmen würdest.
+
+     - Achte darauf, dass es keine Pausen in deinem Beinschlag gibt.
+
+4. **Koordination**:
+   
+   - Koordiniere die Brustschwimmarme mit dem Kraulbeinschlag:
+
+     - Wenn deine Arme nach vorne gehen, beginne den Beinschlag.
+
+     - Wenn deine Arme nach hinten gehen, halte den Beinschlag aufrecht.
+
+     - Versuche, einen fließenden Übergang zwischen den beiden Bewegungen zu erreichen.
+
+5. **Wiederholungen**:
+   
+   - Wiederhole den Drill für mehrere Zyklen, um die Koordination zu verbessern.
+
+   - Achte darauf, dass du gleichmäßig atmest und den Rhythmus beibehältst.
+
+Denke daran, dass der BAFL-Drill dazu dient, deine Technik zu verfeinern und ein besseres Wassergefühl zu entwickeln.
+
+
+### Technik der Brust-Atmung
+
+**Bewegungsbeschreibung**
+!?[Breaststroke Swimming Technique | Breathing](https://www.youtube.com/watch?v=RBs2sPifsq8&list=PLN1uwpFCUEh1GGZo1X2elGX9GBxxej-0U&index=3)
+
+Eine gute Atemtechnik versorgt Ihre Muskeln mit Sauerstoff und hilft Ihnen, bequemer und effizienter zu schwimmen. 
+
+1. Wenn deine Arme die Zugphase beginnen, hebe deinen Kopf aus dem Wasser und atmen durch den Mund ein. 
+2. Halte den Kopf und die Schultern entspannt. 
+3. Wenn die Arme in der Erholungsphase nach vorne gestreckt werden, tauche mit dem Kopf ins Wasser und atme langsam durch die Nase oder den Mund aus.
+
+**Beobachtungsmerkmale**
+
+- Über Wasser wird nur eingeatmet
+- Die Ein- und Ausatmung erfolgt bei jedem Bewegungszyklus
+
+### Schwimmlage des Brustschwimmen
+
+**Bewegungsbeschreibung**
+!?[Breaststroke Swimming Technique | Body Positioning](https://www.youtube.com/watch?v=3aofS2pF6A0&list=PLN1uwpFCUEh1GGZo1X2elGX9GBxxej-0U&index=4)
+
+Die korrekte Körperposition ermöglicht es dir, stromlinienförmiger zu werden und deine Effizienz im Wasser zu verbessern. 
+
+- Um deinen Körper so gerade wie möglich von deinem Kopf bis zu deinen Hüften zu halten, positioniere deinen Kopf nach vorne und leicht nach unten geneigt. 
+- Ziehe deinen Bauch ein, um deinen Rücken so gerade wie möglich zu halten und deine Hüften so nah wie möglich an der Wasseroberfläche
+
+**Beobachtungsmerkmale**
+
+- deutlicher Wechsel zwischen Anstellen und Flachlegen des Oberkörpers
+- Schultern und Hüfte befinden sich waagrecht zur Wasseroberfläche
+- Kopf und Schultern werden zur zum Einatmen angehoben
+
+### Korrekturmöglichkeiten der Gesamtkoordination
+
+**Ungünstige Ausführungen**
+
+- Der Beinschlag endet nicht mit geschlossenen und gestreckten Beinen.
+- Keine Gleitphase
+- Der Armzug beginnt zu früh
+
+**Folgen:**
+
+- Das Antriebspotenzial wird nicht genutzt
+- Höhere Kraftaufwand
+
+**Korrekturhilfen**
+
+- Koppeln von Arm- und Beinarbeit ohne Atmung:
+  
+    1. Abstoß und Gleiten
+    2. zwei Armzüge
+    3. zwei Beinschläge
+    4. hinstellen, atmen und neu beginnen!
+
+- Betonung der Gleitphase
+
+    1. ein Armzug
+    2. zwei Beinschläge
+    3. ein Armzug
 
 ## Inhaltsfeld (Themenfeld) Outdoor
 
