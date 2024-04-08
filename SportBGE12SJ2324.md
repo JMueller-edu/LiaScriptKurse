@@ -514,28 +514,40 @@ Rückhand Drives werden angewendet:
 
 ```@mermaid
 timeline
+          Teilkompetenz Bade- und Verhaltensregeln kennen
+          : W1 Allgemeine Baderegeln
+          : W2 Verhaltensregeln vor dem Schwimmunterricht
+          : W3 Verhaltensregeln während des Schwimmunterrichts
+          : Die Lernenden kennen die Bade- und Verhaltensregeln 
+
           Teilkompetenz Technik des Beinschlags kennen und ausführen
-          : W1 
-          : S
+          : W4 
+          : S1
+          : S2
+          : S3
           : Die Lernenden können den Brustbeinschlag isoliert ausführen.
 
           Teilkompetenz Technik des Armschlags kennen und ausführen 
-          : W2 
-          : S
+          : W5 
+          : S4
+          : S5
+          : S6
           : Die Lernenden können den Brustarmschlag isoliert ausführen.
 
           Teilkompetenz Technik der Atmung kennen und ausführen.
-          : W3
-          : S
+          : W6
+          : S7
+          : S8
+          : S9
           : Die Lernenden können die Atmung beim Brustschwimmen isoliert ausführen.
 
           Teilkompetenz Koordination des Brustschwimmen kennen und ausführen
-          : W4
+          : W7
           : S
           : Die Lernenden können die Teilbewegungen des Brustschwimmen koordiniert ausführen.
 
-          Kompetenz Effektives Brustschwimmen
-          : Die Lernenden können effektiv Brustschwimmen.
+          Kompetenz Effektives und Sicheres Brustschwimmen
+          : Die Lernenden können sicher und effektiv Brustschwimmen.
 
 ```
 
@@ -643,6 +655,137 @@ Je stärker dein Beinschlag ist, desto mehr Vortrieb wirst du erzielen und desto
 - Die Füße und Unterschenkel drehen und schwingen nach außen, die Zehen werden zu den Scheinbeinen hin gebeugt.
 - Abdruck von Widerlager Wasser durch schwungvolles und bogenförmiges Kreisen der Beine und Füße nach hinten zur vollkommen Schließung und Streckung.
 
+#### Übung: Beinschlag in Rücklage
+
+Der **Schwimmdrill "Beinschlag in Rücklage"** ist eine hervorragende Übung, um deinen **Beinschlag beim Brustschwimmen** zu verbessern. Dieser Drill konzentriert sich auf die Beinbewegung und hilft dir, eine effiziente und kraftvolle Beinarbeit zu entwickeln. 
+
+!?[Video: Breaststroke - Kick on Your Back](https://www.youtube.com/watch?v=sudML0wp6Pw)
+
+Hier sind nochmale die Schritte für den Beinschlag in Rücklage:
+
+1. **Ausgangsposition**:
+
+   - Beginne im Wasser, entweder im flachen Bereich des Pools oder im tiefen Wasser.
+   - Lege dich in eine **flache Rückenlage**.
+
+2. **Beinschlag**:
+
+   - Führe den Beinschlag aus:
+
+     - Halte deine Beine gestreckt und deine Füße zusammen.
+     - Mache einen kontinuierlichen Beinschlag, als ob du **Brustschwimmen** machen würdest.
+     - Achte darauf, dass es keine Pausen in deinem Beinschlag gibt.
+
+3. **Wasserlage**:
+
+   - Konzentriere dich darauf, eine **stabile Wasserlage** zu halten.
+   - Dein Kopf sollte leicht im Wasser liegen, und deine Hüften sollten nahe der Wasseroberfläche sein.
+
+4. **Koordination**:
+
+   - Koordiniere den Beinschlag mit deinen Armen:
+
+     - Du kannst deine Arme entweder seitlich ausgestreckt halten oder sie leicht bewegen, um das Gleichgewicht zu halten.
+     - Achte darauf, dass die Beinbewegung gleichmäßig und kraftvoll ist.
+
+5. **Wiederholungen**:
+
+   - Wiederhole den Beinschlag in Rücklage für mehrere Zyklen, um deine Technik zu verfeinern.
+   - Achte darauf, dass du gleichmäßig atmest und den Rhythmus beibehältst.
+
+Denke daran, dass dieser Drill dazu dient, deine Beinarbeit zu optimieren und eine bessere Wasserlage zu erreichen. 
+
+Viel Erfolg beim Üben! 🏊‍♂️🦵
+
+
+
+#### Übung: Beinschlag mit Schwimmbrett
+
+Der **Schwimmdrill "Brustbeinschlag mit Schwimmbrett in Vorhalte"** ist eine effektive Übung, um deinen **Beinschlag beim Brustschwimmen** zu verbessern. Dieser Drill konzentriert sich auf die Beinbewegung und hilft dir, eine kraftvolle und effiziente Beinarbeit zu entwickeln. 
+
+!?[Beinbewegung in Bauchlage mit dem Brett in Vorhalte](https://www.youtube.com/watch?v=nU98UjDESaU)
+
+Hier sind nochmal die Schritte für diesen Drill:
+
+1. **Ausgangsposition**:
+
+   - Beginne im Wasser, entweder im flachen Bereich des Pools oder im tiefen Wasser.
+   - Halte ein **Schwimmbrett** vor dir.
+
+2. **Arme fixieren**:
+
+   - Fasse das Schwimmbrett mit den Händen, um deine Arme zu fixieren.
+   - Dadurch kannst du dich besser auf die Beinbewegung konzentrieren.
+
+3. **Körperlage**:
+
+   - Lege dich in eine **flache Bauchlage**.
+   - Dein Kopf sollte zwischen den gestreckten Armen liegen.
+
+4. **Beinschlag**:
+
+   - Führe den Beinschlag aus:
+
+     - Halte deine Beine gestreckt und deine Füße zusammen.
+     - Mache einen kontinuierlichen Beinschlag, als ob du **Brustschwimmen** machen würdest.
+     - Achte darauf, dass es keine Pausen in deinem Beinschlag gibt.
+
+5. **Atmung**:
+
+   - Schwimme eine kurze Strecke ohne Atmung, um dich auf den Beinschlag zu konzentrieren.
+   - Zur Einatmung kannst du dich kurz hinstellen.
+
+6. **Wiederholungen**:
+
+   - Wiederhole den Brustbeinschlag mit Schwimmbrett in der Vorhalte für mehrere Zyklen.
+   - Achte darauf, dass du gleichmäßig atmest und den Rhythmus beibehältst.
+
+Denke daran, dass dieser Drill dazu dient, deine Beinarbeit zu optimieren und eine bessere Wasserlage zu erreichen. 
+
+Viel Erfolg beim Üben! 🏊‍♀️🦵
+
+#### Übung: Tombstone-Drill-Kick
+
+Der **Tombstone-Drill-Kick** ist eine großartige Übung, um an deiner **Beinschlagtechnik** zu arbeiten und gleichzeitig deine Beine zu stärken. Dieser Drill kann dir helfen, mehr Kraft in deinem Beinschlag zu entwickeln und dich schneller durch das Wasser zu bewegen. 
+
+!?[Breaststroke Swimming Drills | Tombstone](https://www.youtube.com/watch?v=DlOYra6AtRs&list=PLN1uwpFCUEh3uTaQFw2pPJzmbjvi7Bm7n&index=20)
+
+Hier nochmal die Schritte für den Tombstone-Drill-Kick:
+
+1. **Ausgangsposition**:
+
+   - Beginne im Wasser, entweder im flachen Bereich des Pools oder im tiefen Wasser.
+   - Halte einen **Kickboard** (Schwimmbrett) vor dir.
+
+2. **Tombstone-Position**:
+
+   - Halte das Kickboard **senkrecht** vor dir, sodass es wie ein Grabstein aussieht.
+   - Du kannst die **Tiefe** des Kickboards anpassen, um den Drill schwieriger zu gestalten.
+
+3. **Beinschlag**:
+
+   - Führe den Beinschlag aus:
+
+     - Halte deine Beine gestreckt und deine Füße zusammen.
+
+     - Mache einen kontinuierlichen Beinschlag, als ob du **Freistil** schwimmen würdest.
+
+     - Achte darauf, dass es keine Pausen in deinem Beinschlag gibt.
+
+4. **Herausforderung**:
+
+   - Der Trick beim Tombstone-Drill besteht darin, dass das senkrechte Kickboard den Wasserwiderstand erhöht.
+   - Versuche, deinen Beinschlag trotzdem gleichmäßig und kraftvoll zu halten.
+
+5. **Wiederholungen**:
+
+   - Wiederhole den Tombstone-Drill-Kick für mehrere Zyklen, um deine Beinschlagtechnik zu verbessern.
+   - Achte darauf, dass du gleichmäßig atmest und den Rhythmus beibehältst.
+
+Denke daran, dass dieser Drill dazu dient, deine Beinschlagtechnik zu verfeinern und deine Beine zu stärken. 
+
+Viel Erfolg beim Üben! 🏊‍♂️🦵
+
 #### Korrekturmöglichkeiten eines Scherbeinschlags
 
 **Ungünstige Ausführung**
@@ -686,47 +829,7 @@ Je stärker dein Beinschlag ist, desto mehr Vortrieb wirst du erzielen und desto
 
   - Das Brett über die Hüfte halten
   
-    - Die Körperorientierung zu Brett verhindert eine mögliche Sitzhaltung 
-
-#### Übung Tombstone-Drill-Kick
-
-Der **Tombstone-Drill-Kick** ist eine großartige Übung, um an deiner **Beinschlagtechnik** zu arbeiten und gleichzeitig deine Beine zu stärken. Dieser Drill kann dir helfen, mehr Kraft in deinem Beinschlag zu entwickeln und dich schneller durch das Wasser zu bewegen. 
-
-!?[Breaststroke Swimming Drills | Tombstone](https://www.youtube.com/watch?v=DlOYra6AtRs&list=PLN1uwpFCUEh3uTaQFw2pPJzmbjvi7Bm7n&index=20)
-
-Hier nochmal die Schritte für den Tombstone-Drill-Kick:
-
-1. **Ausgangsposition**:
-
-   - Beginne im Wasser, entweder im flachen Bereich des Pools oder im tiefen Wasser.
-   - Halte einen **Kickboard** (Schwimmbrett) vor dir.
-
-2. **Tombstone-Position**:
-
-   - Halte das Kickboard **senkrecht** vor dir, sodass es wie ein Grabstein aussieht.
-   - Du kannst die **Tiefe** des Kickboards anpassen, um den Drill schwieriger zu gestalten.
-
-3. **Beinschlag**:
-
-   - Führe den Beinschlag aus:
-
-     - Halte deine Beine gestreckt und deine Füße zusammen.
-
-     - Mache einen kontinuierlichen Beinschlag, als ob du **Freistil** schwimmen würdest.
-
-     - Achte darauf, dass es keine Pausen in deinem Beinschlag gibt.
-
-4. **Herausforderung**:
-
-   - Der Trick beim Tombstone-Drill besteht darin, dass das senkrechte Kickboard den Wasserwiderstand erhöht.
-   - Versuche, deinen Beinschlag trotzdem gleichmäßig und kraftvoll zu halten.
-
-5. **Wiederholungen**:
-
-   - Wiederhole den Tombstone-Drill-Kick für mehrere Zyklen, um deine Beinschlagtechnik zu verbessern.
-   - Achte darauf, dass du gleichmäßig atmest und den Rhythmus beibehältst.
-
-Denke daran, dass dieser Drill dazu dient, deine Beinschlagtechnik zu verfeinern und deine Beine zu stärken.
+    - Die Körperorientierung zu Brett verhindert eine mögliche Sitzhaltung
 
 ### Technik des Brust-Armschlags
 
@@ -745,7 +848,100 @@ Denke daran, dass dieser Drill dazu dient, deine Beinschlagtechnik zu verfeinern
 - Keine Pause zwischen Zug- und Vorschubphase der Arme/Hände.
 - Kopf und Schultern werden erst im Verlauf der Zugphase angehoben
 
-#### Übung Breast Arms with Front Crawl Legs (BAFL)
+#### Übung: Scheibenwischer
+
+Der **Scheibenwischer Drill** ist eine wertvolle Übung zur Verfeinerung deiner **Brustschwimmtechnik**, insbesondere der **Zugbewegung**. 
+
+!?[Breaststroke Windshield Wiper Drill](https://www.youtube.com/watch?v=7UrISlv_O-c)
+
+Hier nochmal die Schritte des Scheibenwischer:
+
+1. **Ausgangsposition**:
+
+   - Gehe ins Wasser und positioniere dich auf dem **Bauch**.
+   - Deine **Hände sollten vor dir sein**, die Arme gestreckt.
+
+2. **Ellenbogen und Unterarme**:
+
+   - Halte deine **Ellbogen nahe der Wasseroberfläche**.
+   - Die Unterarme sollten parallel zur Wasseroberfläche sein.
+
+3. **Bewegung der Unterarme**:
+
+   - Bewege deine **Unterarme wie Scheibenwischer** hin und her.
+   - Beginne mit den Händen vor deinem Körper und führe sie nach außen.
+   - Stelle dir vor, du würdest die Windschutzscheibe eines Autos reinigen.
+
+4. **Wichtige Punkte**:
+
+   - Achte darauf, dass die **Handgelenke tiefer als die Ellbogen** sind.
+   - Führe die Bewegung gleichmäßig und kontrolliert aus.
+   - Konzentriere dich auf den **Ausschwung** (die Bewegung nach außen).
+
+5. **Atmung**:
+
+   - Atme aus, wenn du die Hände nach außen bewegst.
+   - Atme ein, wenn du die Hände wieder in Richtung Körper bewegst.
+
+6. **Wiederholungen**:
+
+   - Führe den Windshield Wiper Drill für mehrere Wiederholungen durch.
+   - Konzentriere dich auf die Technik und versuche, die Bewegung zu verfeinern.
+
+Denke daran, dass dieser Drill dazu dient, deine Brustschwimmtechnik zu verbessern. 
+
+Viel Erfolg beim Üben! 🏊‍♀️🌊
+
+
+
+
+
+#### Übung: Brust Arme mit Pool Buoy
+
+Der **Schwimmdrill Brustarme** ist eine großartige Übung, um deine Armkraft und Technik beim Brustschwimmen zu verbessern. Mit einem **Pull Buoy** als Trainingshilfe kannst du diesen Drill effektiv durchführen. 
+
+!?[Video: Breaststroke Swimming Drills | Breastroke Arms with Pull Buoy](https://www.youtube.com/watch?v=2rkuWCRMe1A)
+
+Hier die schrittweisen Übungsdurchführung:
+
+1. **Vorbereitung**:
+
+    - Gehe ins Wasser und halte den **Pull Buoy** zwischen deinen Oberschenkeln oder Waden.
+    - Stelle sicher, dass du dich im flachen Bereich des Pools befindest.
+
+2. **Positionierung**:
+
+    - Lege dich auf den Bauch und strecke deine Arme nach vorne aus.
+    - Deine Beine sollten durch den **Pull Buoy** stabilisiert sein.
+
+3. **Bewegungsablauf**:
+
+    - Beginne mit dem Brustschwimmen, indem du deine Arme gleichzeitig nach vorne bewegst.
+    - Führe einen kräftigen Zug aus, indem du deine Hände unter Wasser nach außen und dann nach innen bewegst.
+    - Achte darauf, dass deine Ellenbogen während des Zugs nah am Körper bleiben.
+    - Wiederhole diese Bewegung, während du kontinuierlich atmest.
+
+4. **Fokus auf die Arme**:
+
+    - Konzentriere dich darauf, die Armkraft zu maximieren.
+    - Spüre die Muskeln in deinen Schultern, Armen und Brustmuskeln arbeiten.
+
+5. **Beinarbeit**:
+
+    - Da deine Beine durch den **Pull Buoy** stabilisiert sind, kannst du dich voll auf die Armtechnik konzentrieren.
+    - Lass deine Beine ruhig im Wasser treiben, während du dich auf die Armbewegungen konzentrierst.
+
+6. **Wiederholungen und Sets**:
+
+    - Mache 3-4 Wiederholungen mit jeweils 25-50 Metern.
+    - Pausiere zwischen den Sets, um dich zu erholen.
+
+Denke daran, dass der **Schwimmdrill Brustarme mit Pull Buoy** eine großartige Möglichkeit ist, deine Schwimmtechnik zu verfeinern und deine Armkraft zu stärken. 
+
+Viel Erfolg beim Training! 🏊‍♀️🔥
+
+
+#### Übung: Brust Arme mit Kraul Beine
 
 Der **Schwimmdrill "Breast Arms with Front Crawl Legs" (BAFL)** ist eine Übung, die darauf abzielt, die Koordination und den Timing deines Brustschwimmzugs zu verbessern. Gleichzeitig wird dein Wassergefühl gestärkt, und du profitierst von einem schnelleren Armzyklus.
 
@@ -799,6 +995,8 @@ Hier noche einmal die Schritte für den BAFL-Drill:
 
 Denke daran, dass der BAFL-Drill dazu dient, deine Technik zu verfeinern und ein besseres Wassergefühl zu entwickeln.
 
+Viel Erfolg beim Training! 🏊‍♀️🔥
+
 
 ### Technik der Brust-Atmung
 
@@ -816,7 +1014,114 @@ Eine gute Atemtechnik versorgt Ihre Muskeln mit Sauerstoff und hilft Ihnen, bequ
 - Über Wasser wird nur eingeatmet
 - Die Ein- und Ausatmung erfolgt bei jedem Bewegungszyklus
 
-### Schwimmlage des Brustschwimmen
+#### Übung: Atmung im Stand
+
+Der **Schwimmdrill Atmung im Stand** gibt dir die Möglichkeit die Richtige Atmung beim Brustschwimmen erfahren zu lassen.
+
+!?[Video: reharse in place](https://youtu.be/CiNxiWY6g1o?feature=shared&t=88)
+
+Hier noch einmal die einzelnen Schritte zur Übung:
+
+1. **Vorbereitung**:
+
+    - Gehe ins Wasser und begebe dich in den Bereich des Beckens indem du noch Stehen kannst.
+
+2. **Positionierung**:
+
+    - Stelle dich aufrecht hin
+
+3. **Bewegungsablauf**:
+
+    - Führe im Gehen Armzüge aus
+    - Hebe deinen Kopf während der Armzugphase zum Einatmen aus dem Wasser
+    - Senke Ihn bei Vorscheiben der Arme wieder ins Wasser und atme unter Wasser aus
+  
+4. **Fokus auf die Atmung**:
+
+    - Atme durch den Mund ein und durch die Nase aus.
+
+5. **Wiederholungen und Sets**:
+
+    - Mache 3-4 Wiederholungen
+    - Pausiere zwischen den Sets, um dich zu erholen.
+
+
+#### Übung: Brust Arme mit Poolnudel
+
+Der **Schwimmdrill Brustschwimmen mit Poolnudel** ist eine großartige Möglichkeit, deine Brustschwimmtechnik zu verbessern. Mit einer **Poolnudel** als Trainingshilfe kannst du diesen Drill effektiv durchführen. 
+
+!?[Video: Breaststroke arms with noodle](https://www.youtube.com/watch?v=e44ukAtSibc)
+
+Hier nochmal die einzelnen Schritte zur Übung:
+
+1. **Vorbereitung**:
+
+    - Gehe ins Wasser und begebe dich in den flachen Bereich des Pools.
+    - Nimm eine oder mehrere **Poolnudeln** zur Hand.
+    - Platziere die **Poolnudel(n)** quer über deine Brust und unter deine Achseln.
+    - Achte darauf, dass die **Poolnudel(n)** genügend Auftrieb bieten, damit deine Schultern und dein Kopf über Wasser bleiben.
+
+2. **Positionierung**:
+
+    - Lege dich auf den Bauch und strecke deine Arme nach vorne aus.
+    - Die **Poolnudel(n)** sollten dich stabilisieren und dir helfen, auf dem Wasser zu schweben.
+
+3. **Bewegungsablauf**:
+
+    - Beginne mit dem Brustschwimmen, indem du deine Arme gleichzeitig nach vorne bewegst.
+    - Führe einen kräftigen Zug aus, indem du deine Hände unter Wasser nach außen und dann nach innen bewegst.
+    - Halte deine Ellenbogen während des Zugs nah am Körper.
+    - Wiederhole diese Bewegung, während du kontinuierlich atmest.
+
+4. **Fokus auf die Beine**:
+
+    - Da die **Poolnudel(n)** dich stabilisieren, kannst du dich voll auf die Armtechnik konzentrieren.
+    - Lasse deine Beine ruhig im Wasser treiben, während du dich auf die Armbewegungen konzentrierst.
+
+5. **Wiederholungen und Sets**:
+
+    - Mache 3-4 Wiederholungen mit jeweils 25-50 Metern.
+    - Pausiere zwischen den Sets, um dich zu erholen.
+
+Denke daran, dass der **Schwimmdrill Brustschwimmen mit Poolnudel** eine großartige Möglichkeit ist, deine Schwimmtechnik zu verfeinern. 
+
+Viel Erfolg beim Training! 🏊‍♀️🔥
+
+
+#### Übung: Brust Arme mit Kraulbeinen und Flossen
+
+Der Schwimmdrill "Brustschwimmen mit Kraulbeinen und Flossen" ist eine großartige Übung, um die Koordination und den Timing deines Brustschwimmzugs zu verbessern. Außerdem hilft er dir, ein besseres Wassergefühl zu entwickeln und durch einen schnelleren Armzyklus fit zu bleiben. Hier sind die Schritte für diesen Drill:
+
+!?[Video Breaststroke Swimming Drills | Breaststroke Arms with Front Crawl Legs (BAFL)](https://www.youtube.com/watch?v=s5kzMmxg8E4&list=PLN1uwpFCUEh3uTaQFw2pPJzmbjvi7Bm7n&index=6)
+
+1. **Vorbereitung**:
+
+   - Du benötigst Schwimmflossen (Flossen), um die Beinbewegung zu unterstützen.
+   - Gehe ins Wasser und stelle sicher, dass du genügend Platz hast.
+
+2. **Ausführung**:
+
+   - Beginne mit dem Brustschwimmzug: Deine Arme führen den typischen Brustschwimmzug aus, während deine Beine die Kraulbeinbewegung machen.
+   - Deine Hände führen den Brustschwimmzug aus: Hände zusammen, Ellenbogen nach außen drücken, dann die Hände nach vorne schieben.
+   - Gleichzeitig machen deine Beine die Kraulbeinbewegung: Knie beugen und die Beine abwechselnd nach oben und unten bewegen.
+   - Die Flossen unterstützen die Beinbewegung und helfen dir, dich schneller durchs Wasser zu bewegen.
+   - Achte darauf, dass du einen gleichmäßigen Rhythmus zwischen Armen und Beinen beibehältst.
+
+3. **Wiederholungen**:
+
+   - Mache 4-6 Wiederholungen dieses Drills, bevor du dich ausruhst.
+   - Fokussiere dich auf die richtige Technik und versuche, die Bewegungen fließend auszuführen.
+
+4. **Tipps**:
+
+   - Halte deinen Körper in einer geraden Linie, um den Wasserwiderstand zu minimieren.
+   - Atme regelmäßig, indem du den Kopf zur Seite drehst, wenn deine Arme nach vorne gehen.
+   - Nutze die Flossen, um die Beinbewegung zu beschleunigen, aber achte darauf, dass du nicht zu stark paddelst.
+
+Viel Erfolg beim Üben! 🏊‍♀️🌊
+
+
+### Schwimmlage beim Brustschwimmen
 
 **Bewegungsbeschreibung**
 !?[Breaststroke Swimming Technique | Body Positioning](https://www.youtube.com/watch?v=3aofS2pF6A0&list=PLN1uwpFCUEh1GGZo1X2elGX9GBxxej-0U&index=4)
@@ -832,7 +1137,9 @@ Die korrekte Körperposition ermöglicht es dir, stromlinienförmiger zu werden 
 - Schultern und Hüfte befinden sich waagrecht zur Wasseroberfläche
 - Kopf und Schultern werden zur zum Einatmen angehoben
 
-### Korrekturmöglichkeiten der Gesamtkoordination
+### Koordination beim Brustschwimmen
+
+#### Korrekturmöglichkeiten der Gesamtkoordination
 
 **Ungünstige Ausführungen**
 
