@@ -659,9 +659,11 @@ Je stärker dein Beinschlag ist, desto mehr Vortrieb wirst du erzielen und desto
 
 Der **Schwimmdrill "Beinschlag in Rücklage"** ist eine hervorragende Übung, um deinen **Beinschlag beim Brustschwimmen** zu verbessern. Dieser Drill konzentriert sich auf die Beinbewegung und hilft dir, eine effiziente und kraftvolle Beinarbeit zu entwickeln. 
 
+**Demonstration**
+
 !?[Video: Breaststroke - Kick on Your Back](https://www.youtube.com/watch?v=sudML0wp6Pw)
 
-Hier sind nochmale die Schritte für den Beinschlag in Rücklage:
+**Ausführungsanweisung**
 
 1. **Ausgangsposition**:
 
@@ -698,14 +700,15 @@ Denke daran, dass dieser Drill dazu dient, deine Beinarbeit zu optimieren und ei
 Viel Erfolg beim Üben! 🏊‍♂️🦵
 
 
-
 #### Übung: Beinschlag mit Schwimmbrett
 
 Der **Schwimmdrill "Brustbeinschlag mit Schwimmbrett in Vorhalte"** ist eine effektive Übung, um deinen **Beinschlag beim Brustschwimmen** zu verbessern. Dieser Drill konzentriert sich auf die Beinbewegung und hilft dir, eine kraftvolle und effiziente Beinarbeit zu entwickeln. 
 
+**Demonstration**
+
 !?[Beinbewegung in Bauchlage mit dem Brett in Vorhalte](https://www.youtube.com/watch?v=nU98UjDESaU)
 
-Hier sind nochmal die Schritte für diesen Drill:
+**Ausführungsanweisung**
 
 1. **Ausgangsposition**:
 
@@ -748,9 +751,11 @@ Viel Erfolg beim Üben! 🏊‍♀️🦵
 
 Der **Tombstone-Drill-Kick** ist eine großartige Übung, um an deiner **Beinschlagtechnik** zu arbeiten und gleichzeitig deine Beine zu stärken. Dieser Drill kann dir helfen, mehr Kraft in deinem Beinschlag zu entwickeln und dich schneller durch das Wasser zu bewegen. 
 
+**Demonstration**
+
 !?[Breaststroke Swimming Drills | Tombstone](https://www.youtube.com/watch?v=DlOYra6AtRs&list=PLN1uwpFCUEh3uTaQFw2pPJzmbjvi7Bm7n&index=20)
 
-Hier nochmal die Schritte für den Tombstone-Drill-Kick:
+**Ausführungsanweisung**
 
 1. **Ausgangsposition**:
 
@@ -852,9 +857,11 @@ Viel Erfolg beim Üben! 🏊‍♂️🦵
 
 Der **Scheibenwischer Drill** ist eine wertvolle Übung zur Verfeinerung deiner **Brustschwimmtechnik**, insbesondere der **Zugbewegung**. 
 
+**Demonstration**
+
 !?[Breaststroke Windshield Wiper Drill](https://www.youtube.com/watch?v=7UrISlv_O-c)
 
-Hier nochmal die Schritte des Scheibenwischer:
+**Ausführungsanweisung**
 
 1. **Ausgangsposition**:
 
@@ -900,9 +907,11 @@ Viel Erfolg beim Üben! 🏊‍♀️🌊
 
 Der **Schwimmdrill Brustarme** ist eine großartige Übung, um deine Armkraft und Technik beim Brustschwimmen zu verbessern. Mit einem **Pull Buoy** als Trainingshilfe kannst du diesen Drill effektiv durchführen. 
 
+**Demonstration**
+
 !?[Video: Breaststroke Swimming Drills | Breastroke Arms with Pull Buoy](https://www.youtube.com/watch?v=2rkuWCRMe1A)
 
-Hier die schrittweisen Übungsdurchführung:
+**Ausführungsanweisung**
 
 1. **Vorbereitung**:
 
@@ -945,9 +954,11 @@ Viel Erfolg beim Training! 🏊‍♀️🔥
 
 Der **Schwimmdrill "Breast Arms with Front Crawl Legs" (BAFL)** ist eine Übung, die darauf abzielt, die Koordination und den Timing deines Brustschwimmzugs zu verbessern. Gleichzeitig wird dein Wassergefühl gestärkt, und du profitierst von einem schnelleren Armzyklus.
 
+**Demonstration**
+
 !?[Video Breaststroke Swimming Drills | Breaststroke Arms with Front Crawl Legs (BAFL)](https://www.youtube.com/watch?v=s5kzMmxg8E4&list=PLN1uwpFCUEh3uTaQFw2pPJzmbjvi7Bm7n&index=6)
 
-Hier noche einmal die Schritte für den BAFL-Drill:
+**Ausführungsanweisung**
 
 1. **Ausgangsposition**:
    
@@ -1001,6 +1012,7 @@ Viel Erfolg beim Training! 🏊‍♀️🔥
 ### Technik der Brust-Atmung
 
 **Bewegungsbeschreibung**
+
 !?[Breaststroke Swimming Technique | Breathing](https://www.youtube.com/watch?v=RBs2sPifsq8&list=PLN1uwpFCUEh1GGZo1X2elGX9GBxxej-0U&index=3)
 
 Eine gute Atemtechnik versorgt Ihre Muskeln mit Sauerstoff und hilft Ihnen, bequemer und effizienter zu schwimmen. 
@@ -1018,9 +1030,11 @@ Eine gute Atemtechnik versorgt Ihre Muskeln mit Sauerstoff und hilft Ihnen, bequ
 
 Der **Schwimmdrill Atmung im Stand** gibt dir die Möglichkeit die Richtige Atmung beim Brustschwimmen erfahren zu lassen.
 
+**Demonstration**
+
 !?[Video: reharse in place](https://youtu.be/CiNxiWY6g1o?feature=shared&t=88)
 
-Hier noch einmal die einzelnen Schritte zur Übung:
+**Ausführungsanweisung**
 
 1. **Vorbereitung**:
 
@@ -1050,9 +1064,11 @@ Hier noch einmal die einzelnen Schritte zur Übung:
 
 Der **Schwimmdrill Brustschwimmen mit Poolnudel** ist eine großartige Möglichkeit, deine Brustschwimmtechnik zu verbessern. Mit einer **Poolnudel** als Trainingshilfe kannst du diesen Drill effektiv durchführen. 
 
+**Demonstration**
+
 !?[Video: Breaststroke arms with noodle](https://www.youtube.com/watch?v=e44ukAtSibc)
 
-Hier nochmal die einzelnen Schritte zur Übung:
+**Ausführungsanweisung**
 
 1. **Vorbereitung**:
 
@@ -1085,14 +1101,15 @@ Hier nochmal die einzelnen Schritte zur Übung:
 
 Denke daran, dass der **Schwimmdrill Brustschwimmen mit Poolnudel** eine großartige Möglichkeit ist, deine Schwimmtechnik zu verfeinern. 
 
-Viel Erfolg beim Training! 🏊‍♀️🔥
-
-
 #### Übung: Brust Arme mit Kraulbeinen und Flossen
 
-Der Schwimmdrill "Brustschwimmen mit Kraulbeinen und Flossen" ist eine großartige Übung, um die Koordination und den Timing deines Brustschwimmzugs zu verbessern. Außerdem hilft er dir, ein besseres Wassergefühl zu entwickeln und durch einen schnelleren Armzyklus fit zu bleiben. Hier sind die Schritte für diesen Drill:
+Der Schwimmdrill "Brustschwimmen mit Kraulbeinen und Flossen" ist eine großartige Übung, um die Koordination und den Timing deines Brustschwimmzugs zu verbessern. Außerdem hilft er dir, ein besseres Wassergefühl zu entwickeln und durch einen schnelleren Armzyklus fit zu bleiben.
+
+**Demonstration**
 
 !?[Video Breaststroke Swimming Drills | Breaststroke Arms with Front Crawl Legs (BAFL)](https://www.youtube.com/watch?v=s5kzMmxg8E4&list=PLN1uwpFCUEh3uTaQFw2pPJzmbjvi7Bm7n&index=6)
+
+**Ausführungsanweisung**
 
 1. **Vorbereitung**:
 
@@ -1137,7 +1154,142 @@ Die korrekte Körperposition ermöglicht es dir, stromlinienförmiger zu werden 
 - Schultern und Hüfte befinden sich waagrecht zur Wasseroberfläche
 - Kopf und Schultern werden zur zum Einatmen angehoben
 
+#### Übung: Abstoßen und Gleiten
+
+#### Übung: Zwei Beinschläge ein Armzug
+
+#### Übung: Minimale Zugzahl
+
 ### Koordination beim Brustschwimmen
+
+!?[Video: Perfect Your Breaststroke Timing](https://www.youtube.com/watch?v=7mObHkW-IY8)
+
+Hier noch einmal die Wichtigsten Punkte zum Timing während des Brustschwimmens:
+
+1. **Häufiger Fehler**: Wenn du das Brustschwimmen lernst, ist ein häufiger Fehler, gleichzeitig mit den Beinen zu treten und mit den Armen zu ziehen. Diese Ineffizienz beeinträchtigt deinen Schwimmstil.
+2. **Bedeutung des Timings**: Richtiges Timing und Koordination zwischen Arm- und Beinbewegungen sind entscheidend für die korrekte Brustschwimmtechnik.
+3. **Synchronisation**: Wenn Arm- und Beinbewegungen nicht synchronisiert sind, kann dein Körper im Wasser schleifen und dich verlangsamen.
+4. **Vortrieb**: Das Ziel besteht darin, Armaktionen und Beinschläge so zu timen, dass du ständig durch das Wasser vorankommst. Die Arme sind dabei treibend, während die Beine sich erholen und umgekehrt.
+5. **Phasen des Schwimmstils**: Teile den Brustschwimmzyklus in vier Phasen auf: **Zug**, **Atmen**, **Beinschlag** und **Gleiten**.
+6. **Gleitphase**: Die vollständige Gleitphase, bei der dein Körper gestreckt ist, ist vor dem Beginn des nächsten Schwimmzyklus unerlässlich.
+7. **Übung und Effizienz**: Priorisiere das Üben der Technik und Koordination gegenüber Geschwindigkeit oder Distanz. Ein Rhythmus und eine natürliche Routine werden die Effizienz deines Schwimmstils verbessern.
+
+Denke daran, dass das anfängliche Verlangsamen deines Schwimmstils dir hilft, dich auf die richtige Technik zu konzentrieren. Sobald du die Koordination gemeistert hast, kannst du an Geschwindigkeit und Distanz arbeiten.
+
+#### Übung: Brust Arme Kraul Beine
+
+Der **Schwimmdrill "Breast Arms with Front Crawl Legs" (BAFL)** ist eine Übung, die darauf abzielt, die Koordination und den Timing deines Brustschwimmzugs zu verbessern. Gleichzeitig wird dein Wassergefühl gestärkt, und du profitierst von einem schnelleren Armzyklus.
+
+!?[Video Breaststroke Swimming Drills | Breaststroke Arms with Front Crawl Legs (BAFL)](https://www.youtube.com/watch?v=s5kzMmxg8E4&list=PLN1uwpFCUEh3uTaQFw2pPJzmbjvi7Bm7n&index=6)
+
+Hier noche einmal die Schritte für den BAFL-Drill:
+
+1. **Ausgangsposition**:
+   
+   - Beginne im Wasser, entweder im flachen Bereich des Pools oder im tiefen Wasser.
+   - Du kannst Flossen verwenden, um die Bewegung zu beschleunigen.
+
+
+2. **Brustschwimmarme**:
+   
+   - Führe den Brustschwimmzug mit deinen Armen aus:
+
+     - Starte mit den Händen vor deinem Körper.
+
+     - Drücke die Hände nach außen und dann nach hinten.
+
+     - Beuge die Ellbogen und ziehe die Hände zurück zum Körper.
+
+     - Wiederhole diese Bewegung kontinuierlich.
+
+3. **Kraulbeine**:
+   
+   - Führe die Beinschlagbewegung des Kraulschwimmens aus:
+
+     - Halte deine Beine gestreckt und deine Füße zusammen.
+
+     - Mache einen kontinuierlichen Beinschlag, als ob du Kraul schwimmen würdest.
+
+     - Achte darauf, dass es keine Pausen in deinem Beinschlag gibt.
+
+4. **Koordination**:
+   
+   - Koordiniere die Brustschwimmarme mit dem Kraulbeinschlag:
+
+     - Wenn deine Arme nach vorne gehen, beginne den Beinschlag.
+
+     - Wenn deine Arme nach hinten gehen, halte den Beinschlag aufrecht.
+
+     - Versuche, einen fließenden Übergang zwischen den beiden Bewegungen zu erreichen.
+
+5. **Wiederholungen**:
+   
+   - Wiederhole den Drill für mehrere Zyklen, um die Koordination zu verbessern.
+
+   - Achte darauf, dass du gleichmäßig atmest und den Rhythmus beibehältst.
+
+Denke daran, dass der BAFL-Drill dazu dient, deine Technik zu verfeinern und ein besseres Wassergefühl zu entwickeln.
+
+#### Übung: Einarmige Bruststil-Übung
+
+Lass uns die Einarmige Bruststil-Übung betrachten, bei der wir uns auf einen Arm konzentrieren und ihn abwechselnd mit dem Brustbeinschlag kombinieren. Diese Übung verbessert deine Technik und deinen Rhythmus.
+
+!?[Video](https://www.youtube.com/watch?v=NvbPLoF2FEc)
+
+Hier noch einmal die Durchführungsschritte der Übung:
+
+1. **Schwimme den Bruststil**, wie du es normalerweise tust, aber **verwende nur einen Arm** für jeden Zug.
+2. **Strecke den anderen Arm vor deinem Kopf aus**, während du den Zug ausführst.
+3. Wenn du mit einem Arm ziehst, **führe den Brustbeinschlag aus**, um das Gleichgewicht und den Vortrieb zu halten.
+4. **Wechsle mit jedem Zug die Arme**, wobei du auf eine gleichmäßige und effiziente Bewegung achtest.
+
+Denke daran, dass diese Übung dein **Wettkampftempo** entwickeln soll, indem du dich auf schnelle Arm- und Beinbewegungen konzentrierst. Anfangs mag es etwas ungewohnt sein, aber mit Übung wirst du dieses Tempo in deinen vollen Schwimmstil übertragen können. 
+
+Halte Arme und Beine koordiniert! 💪🦵
+
+#### Übung: Zwei Beinschläge Ein Armzug
+
+**Demonstration**
+
+!?[Video: Breaststroke Swim Drill: Two Kicks, One Pull](https://www.youtube.com/watch?v=mrW1QN44ZGQ)
+
+**Ausführungsanweisung**
+
+1. **Startposition**:
+
+   - Beginne im Wasser, entweder vom Startblock oder vom Beckenrand.
+
+2. **Erster Schritt (Pull)**:
+
+   - Führe einen normalen Brustschwimm-Armzug (Pull) aus.
+   - Achte darauf, dass deine Hände eine gute Wassergriffposition haben und deine Ellenbogen nah am Körper bleiben.
+
+3. **Zwei schnelle Kicks (Beinschläge)**:
+
+   - Nach dem Pull folgen zwei schnelle Brustschwimm-Kicks (Beinschläge).
+   - Die Kicks sollten kurz und kraftvoll sein, um Schwung zu erzeugen.
+   - Tauche etwas tiefer als gewöhnlich, um die beiden Kicks unterzubringen.
+
+4. **Zweiter Schritt (Pull)**:
+
+   - Nach den zwei Kicks folgt ein weiterer Pull (Armzug).
+   - Achte darauf, dass deine Hände wieder in die richtige Position für den Pull gehen.
+
+5. **Wiederholung**:
+
+   - Wiederhole den Zyklus: 1 Pull + 2 Kicks + 1 Pull.
+   - Achte darauf, dass die Kicks und Pulls fließend ineinander übergehen, ohne Pausen dazwischen.
+
+6. **Kopfposition und Atmung**:
+
+   - Halte den Kopf in einer neutralen Position (nicht zu hoch oder zu tief), um den Wasserwiderstand zu minimieren.
+   - Atme nach Bedarf, normalerweise nach jedem Pull.
+
+7. **Fokus auf Koordination**:
+
+   - Fokussiere dich auf die Koordination zwischen Arm- und Beinbewegungen, um einen gleichmäßigen Rhythmus zu erreichen.
+
+Viel Erfolg beim Üben des Drills "2 Kicks + 1 Pull"! 🏊‍♀️🔥
 
 #### Korrekturmöglichkeiten der Gesamtkoordination
 
