@@ -512,6 +512,8 @@ Rückhand Drives werden angewendet:
 
 ## Schwimmen
 
+**Kompetenzerwerbsshema**
+
 ```@mermaid
 timeline
           Teilkompetenz Bade- und Verhaltensregeln kennen
@@ -521,35 +523,50 @@ timeline
           : Die Lernenden kennen die Bade- und Verhaltensregeln 
 
           Teilkompetenz Technik des Beinschlags kennen und ausführen
-          : W4 
-          : S1
-          : S2
-          : S3
+          : W4 Technik des Brust-Beinschlags
+          : S1 Beinschlag in Rückenlage
+          : S2 Beinschlag mit Schwimmbrett
+          : S3 Tombstone-Drill-Kick
           : Die Lernenden können den Brustbeinschlag isoliert ausführen.
 
           Teilkompetenz Technik des Armschlags kennen und ausführen 
-          : W5 
-          : S4
-          : S5
-          : S6
+          : W5 Technik des Brust-Armschlags
+          : S4 Scheibenwischer
+          : S5 Brust Arme mit Pool Buoy
+          : S6 Brust Arme mit Kraul Beine
           : Die Lernenden können den Brustarmschlag isoliert ausführen.
 
-          Teilkompetenz Technik der Atmung kennen und ausführen.
-          : W6
-          : S7
-          : S8
-          : S9
+          Teilkompetenz Technik der Atmung kennen und ausführen
+          : W6 Technik der Brust-Atmung
+          : S7 Atmung im Stand
+          : S8 Brust Arme mit Poolnudel
+          : S9 Brust Arme mit Kraul Beine und Flossen
           : Die Lernenden können die Atmung beim Brustschwimmen isoliert ausführen.
 
-          Teilkompetenz Koordination des Brustschwimmen kennen und ausführen
-          : W7
-          : S
+          Teilkompetenz Schwimmlage des Brustschwimmen kennen und ausführen
+          : W7 Schwimmlage beim Brustschwimmen
+          : S10 Streckentauchen 
+          : S11 Ein Beinschlag Ein Armzug Ein Beinschlag
+          : S12 Erweiterte Gleitphase
+          : Die Lernenden können eine effektive Schwimmlage einnehmen.
+
+          Teilkompetenz Koordination beim Brustschwimmen
+          : W8 Koordination beim Brustschwimmen
+          : S13 Brust Arme Kraul Beine
+          : S14 Einarmige Bruststil-Übung 
+          : S15 Zwei Beinschläge Ein Armzug
           : Die Lernenden können die Teilbewegungen des Brustschwimmen koordiniert ausführen.
 
           Kompetenz Effektives und Sicheres Brustschwimmen
           : Die Lernenden können sicher und effektiv Brustschwimmen.
 
 ```
+
+**Legende:**
+
+- W = Wissenselement       
+- S = Situation        
+- TK = Teilkompetenz
 
 ### Bade- und Verhaltensregeln
 
@@ -1154,11 +1171,83 @@ Die korrekte Körperposition ermöglicht es dir, stromlinienförmiger zu werden 
 - Schultern und Hüfte befinden sich waagrecht zur Wasseroberfläche
 - Kopf und Schultern werden zur zum Einatmen angehoben
 
-#### Übung: Abstoßen und Gleiten
+#### Übung: Streckentauchen
 
-#### Übung: Zwei Beinschläge ein Armzug
+Das Streckentauchen hilft dir die Gleitphase maximal auszunutzen und somit energetischer zu Schwimmen.
 
-#### Übung: Minimale Zugzahl
+**Demonstration**
+
+!?[text](https://www.youtube.com/watch?v=isNvh9Rbwqk)
+
+**Ausführung:**
+
+1. Abstoßen und mit gestrecktem Körper gleiten
+2. Arme halbkreisförmig bis zur Schulter ziehen mit zunehmender Ellbogenbeugung
+3. Arme unter dem Körper kraftvoll bis zu den Oberschenkeln drücken
+4. Am Ende der Druckphase bei gestreckter Körperhaltung gleiten
+5. Arme dicht am Körper nach vorn führen
+6. Beine beugen (Fersen Richtung Gesäß ziehen)
+7. Beinschub (Schwunggrätsche), wenn die Hände am Gesicht sind
+8. Nach der Gleitphase den Tauchzug wiederholen
+9. Zum Auftauchen mit Händen und Kopf nach oben steuern
+
+#### Übung: Ein Beinschlag Ein Armzug Ein Beinschlag
+
+Der **Ride the Glide** Drill verlängert deine Gleitphase und ermöglicht es dir, deine Wasserlage zu optimieren.
+Wenn du die Position länger halten kannst, wirst du insgesamt schneller und effizienter schwimmen.
+
+**Demonstration**
+
+!?[text](https://www.youtube.com/watch?v=3-IjXSrdOpk)
+
+**Ausführung**
+
+1. **Schneller Start**: Beginne mit einem schnellen Beinschlag, gefolgt von einem Armzug.
+2. **Sequenzierung**: Führe die Bewegungen in der Reihenfolge Beinschlag-Zug-Beinschlag aus.
+3. **Gleitphase**: Nach der Sequenzierung gehe in eine Gleitphase über.
+4. **Wichtige Aspekte**:
+
+   - Schnelle Hände und Füße.
+   - Verlängere die Gleitphase.
+   - Kopf und Augen unten halten während des Gleitens.
+   - "Ride the Glide": Nutze die Gleitphase effektiv aus.
+
+Übe diesen Drill, um die Verbindung zwischen Beinschlag und Armzug zu stärken und dein Timing im Brustschwimmen zu verbessern. 🏊‍♂️🌊
+
+#### Übung: Erweiterte Gleitphase
+
+Die Übung **Extended Glide** ist eine wichtige Technik im Brustschwimmen, die es dir ermöglicht, effizient durch das Wasser zu gleiten.
+
+**Demonstration**
+
+!?[text](https://www.youtube.com/watch?v=ovB3e8Co6mk)
+
+**Ausführung**
+
+1. **Startposition**:
+   - Beginne im Wasser, entweder vom Beckenrand oder nach einem Abstoß vom Beckenboden.
+   - Deine Arme sollten in der gestreckten Position vor dir sein.
+
+2. **Kraftvoller Abstoß**:
+   - Drücke dich mit deinen Beinen kraftvoll vom Beckenrand oder vom Boden ab.
+   - Beschleunige deinen Körper, sodass du einige Meter ohne zusätzlichen Aufwand gleitest.
+
+3. **Gleitphase**:
+   - Während der Gleitphase befindet sich die Arme unter der Wasseroberfläche in der gestreckten Position.
+
+4. **Körperhaltung**:
+   - Halte deinen Körper in einer geraden Linie.
+   - Strecke dich so weit wie möglich aus, um den Wasserwiderstand zu minimieren.
+
+5. **Atmung**:
+   - Atme während der Gleitphase nicht.
+   - Konzentriere dich darauf, den Schwung aus dem Abstoß zu nutzen.
+
+6. **Beendigung der Gleitphase**:
+   - Wenn du spürst, dass die Geschwindigkeit nachlässt, beginne mit dem nächsten Schwimmzug.
+   - Dein Gleiten sollte nahtlos in den Schwimmrhythmus übergehen.
+
+**Hinweis**: Die "Breaststroke Extended Glide" ist eine Technik, die es dir ermöglicht, Energie zu sparen und effizienter zu schwimmen. Übe sie regelmäßig, um deine Schwimmleistung zu verbessern! 🏊‍♀️💨
 
 ### Koordination beim Brustschwimmen
 
