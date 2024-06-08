@@ -17,9 +17,8 @@ link:     https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.css
 
 script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
-translation: Deutsch  translations/German.md
+import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
 
-translation: Français translations/French.md
 -->
 
 # Course Main Titel
@@ -187,7 +186,9 @@ else {
 
 [Arbeitsblatt Onedrive](https://bsomichelstadtde-my.sharepoint.com/:b:/g/personal/jan_mueller_bso-michelstadt_de/EbhvLBPghXBFi7YxYfdnIt0B3Jlpj1q98NT5s03QBnkeRg?e=DCcuDH)
 
-[Arbeitsblatt Adobe Cloud](https://acrobat.adobe.com/id/urn:aaid:sc:EU:7f2cf90b-de98-4f80-a0d4-bbf09e63bf7e)
+[Arbeitsblatt Github](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1d258f0e-fee7-411e-a481-8a071cc10715)
+
+
 
 ## More
 
@@ -229,3 +230,51 @@ This is an example for a *single* block animations.
 This one will appear on animation step 2 and disappear on 3.
 
 {{4}} This is also ok, but it will look be harder to spot on GitHub.
+
+## Mermaid
+
+```@mermaid
+graph TD
+A[Start] --> B{Teilnahme an berufsorientierter Projektprüfung?}
+B --> C{Alle Fächer und Lernbereiche mindestens ausreichend?} | Nein: F[Abschluss nicht möglich]
+C --> D{Nicht ausreichende Leistungen?} | Nein: E[Abschluss möglich]
+D --> G{Ausgleich möglich?} | Nein: H[Abschluss nicht möglich]
+G --> I{Ausgleichsbedingungen erfüllt?} | Nein: H[Abschluss nicht möglich]
+I --> J[Abschluss möglich] | Nein: H[Abschluss nicht möglich]
+
+```
+
+```@mermaid
+gantt
+    dateFormat YYYY-MM-DD
+    section Fitness (E.3)
+        KW5     :2024-01-29, 1d
+        KW6     :2024-02-05, 1d
+
+    section Badminton
+        KW8     :2024-02-19, 1d
+        KW9     :2024-02-26, 1d
+        KW10    :2024-03-04, 1d
+        KW11    :2024-03-11, 1d
+        KW12    :2024-03-18, 1d
+
+    section Schwimmen (E.1)
+        KW16    :2024-04-15, 1d
+        KW17    :2024-04-22, 1d
+        KW18    :2024-04-29, 1d
+        KW19    :2024-05-06, 1d
+        KW20    :2024-05-13, 1d
+        KW22    :2024-05-27, 1d
+    
+    section ?? E.??
+        KW23    :2024-06-03, 1d
+        KW24    :2024-06-10, 1d
+        KW25    :2024-06-17, 1d
+        KW26    :2024-06-24, 1d
+        KW27    :2024-07-01, 1d
+        KW28    :2024-07-08, 1d
+  
+```
+## Tafelbild
+
+![alt text](assets/tafelbild.excalidraw.png)
