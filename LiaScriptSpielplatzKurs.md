@@ -186,7 +186,12 @@ else {
 
 [Arbeitsblatt Onedrive](https://bsomichelstadtde-my.sharepoint.com/:b:/g/personal/jan_mueller_bso-michelstadt_de/EbhvLBPghXBFi7YxYfdnIt0B3Jlpj1q98NT5s03QBnkeRg?e=DCcuDH)
 
-[Arbeitsblatt Github](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1d258f0e-fee7-411e-a481-8a071cc10715)
+[Arbeitsblatt Github](https://github.com/JMueller-edu/LiaScriptKurse/blob/ea3700db3fce55afac3e2b70232f4916042364a5/assets/24.pdf)
+
+[Arbeitsblatt Relativ](assets/24.pdf)
+
+[Arbeitsblatt Adobe](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1d258f0e-fee7-411e-a481-8a071cc10715)
+
 
 
 
