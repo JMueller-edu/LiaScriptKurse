@@ -174,22 +174,6 @@ Einige mögliche Gruppentaktiken in der Verteidigung im Basketball sind:
 - [Basketball in der Schule: Die Verteidigung » mobilesport.ch.](https://www.mobilesport.ch/basketball/basketball-in-der-schule-die-verteidigung/.)
 - [Basketball Übungen für verteidigen Verwendung in Ihrem Training?.](https://www.yoursportplanner.com/de/ubungen/basketball-de/verteidigen/.)
 
-### Lernkarten
-
-![Alt text](assets/Learning.jpg)
-**Hier geht es zu den [Lernkarten](https://app.mochi.cards/decks/67233147-73f4-462a-984f-207550c6f793/HRqVAMT4/Basketball-Taktik)**.
-
-![Alt text](assets/Cram.png)
-Zum Lernen der Karten wählen Sie auf der Webseite oben rechts unter New cards den Menüpunkt `Cram` aus.
-
-![Alt text](assets/rueckhandDrive.png)
-Um eine Karteikarte umzublättern klicken Sie diese einfach an.
-
-Mit Hilfe der Rückseite überprüfen Sie, ob Sie die Antwort gewusst oder nicht gewusst haben.
-
-- Mit der `Space` Taste zeigen Sie an, dass Sie die Antwort wussten.
-- Mit der `R` Taste zeigen Sie an, dass Sie diese noch nicht wussten.
-
 ### Kompetenzcheck
 
 **1. Ordnen Sie die folgenden Beschreibung der jeweils passenden Fintenart zu!**
@@ -242,7 +226,7 @@ Mit Hilfe der Rückseite überprüfen Sie, ob Sie die Antwort gewusst oder nicht
     data-solution-button="off"
     data-max-trials="3" 
 -->
-| Gruppentakitk | Beschreibung             |
+| Gruppentaktik | Beschreibung             |
 | ------------- | ------------------------ |
 | [[ Pick and Roll | (Give and Go) | Mann-Mann-Verteidigung | Zonen-Verteidigung ]] | Dies ist eine Gruppentaktik, die durch zwei Spieler ausgeführt wird. Dabei passt ein Spieler den Ball zu einem Mitspieler und läuft sich dann selbst frei. Der Mitspieler passt den Ball zurück zum ursprünglichen Ballführer, der nun in einer guten Wurfposition ist. |
 | [[ Pick and Roll | Give and Go | Mann-Mann-Verteidigung | (Zonen-Verteidigung) ]] |  Dies ist eine Gruppentaktik, bei der die Spieler nicht einen bestimmten Gegenspieler, sondern einen bestimmten Raum auf dem Spielfeld verteidigen. Dabei teilen sich die Spieler das Spielfeld in verschiedene Zonen auf, die sie je nach Position und Situation übernehmen. Ziel ist es, den Zugang zum Korb zu erschweren, Pässe abzufangen oder Würfe zu blockieren.|
@@ -295,15 +279,22 @@ timeline
 
           Teilkompetenz Schlagen und Laufen im Mittelfeld 
           : W2 Breitschaftsstellung, Drives
-          : S4 Dvives im Mittelfeld
-          : S5 Ballwechsel spielen im Mittelfeld
+          : S4 Drives im Mittelfeld
           : Die Lernenden können im Spiel Laufwege und Schläge im Mittelfeld anwenden.
 
-          Kompetenz Spielfähigkeit im Vor- und Mittelfeld
-          : Die Lernenden können im Spiel Laufwege und Schlagformen im Vor- und Mittelfeld anwenden.
+          Teilkompetenz Schlagen und Laufen im Hinterfeld
+          : W3 Schlag Kreislauf, Techniken im Hinterfeld
+          : S5 Clear im Umsprung
+          : S6 Drop im Umsprung
+          : S7 Smash und kurze Abwehr
+          : Die Lernenden können im Spiel Laufwege und Schläge im Hinterfeld anwenden.
+
+          Kompetenz Spielfähigkeit
+          : Die Lernenden können im Spiel Laufwege und Schlagformen anwenden.
 
 ```
 ### S1 Netzdrop Ausfallschritte und Laufweg
+
 
 #### 1. Stundenbeginn
 
@@ -361,9 +352,6 @@ timeline
   - Immer wieder richtige Griffhaltung kontrollieren.
 ---
 ### S2 Kurzer Rückhandaufschlag
-
----
-
 ### S3 Rückhand- und Vorhandlift
 
 **Wohin fliegt der Ball?**
@@ -444,7 +432,6 @@ Defensive, hohe Lifts bewegen den Gegner an die Grundlinie und bringen selbst Ze
   - Regelmäßig Partner wechseln, damit die einzelnen Spiele nicht zu lang werden.
   - Variante: Schüler können ihre Punkte mit ins nächste Spiel nehmen, sodass immer weiter gezählt wird.
 
-
 ### S4 Drives im Mittelfeld
 
 **Wohin fliegt der Ball?**
@@ -509,6 +496,57 @@ Rückhand Drives werden angewendet:
   - Regelmäßig den Partner wechseln.
 
 #### 4. Freies Spiel
+
+### S5 Clear im Umsprung
+
+#### Der Umsprung
+
+Der Umsprung ist die wichtigste Lauftechnik im Hinterfeld. Er unterstützt den Spieler dabei, den
+Ball so früh wie möglich zu erreichen und im Anschluss wieder optimal zurück in eine geeignete
+Bereitschaftsstellung zu gelangen.
+
+Ein weiteres Hauptmerkmal am Umsprung ist, dass er optimal unter Druck eingesetzt werden
+kann, um in der hinteren Rückhandecke den Ball mit der Vorhand („links-vom-Kopf“) statt mit der
+Rückhand anzunehmen.
+
+So funktioniert der Umsprung:
+
+- Das Schlägerbein macht einen Schritt zurück, sodass beide Füße hintereinander stehen mit dem Hauptgewicht auf dem hinteren Bein.
+- Es folgen ein Absprung mit dem hinteren Bein und eine Drehung in der Luft (bi s zu 180°), wobei das ehemals vordere Bein jetzt deutlich hinter dem Absprungpunkt des Schlägerbeins landet. Der Landefuß setzt dabei quer zur Laufrichtung auf, um einen Druckpunkt aus dem Hinterfeld zu haben.
+- Nach dem Aufsetzen des Landebeins macht das Schlägerbein den ersten Schritt.
+- Es folgt ein Nachstellschritt oder Laufschritt mit dem Landebein. 
+
+Achtung: Das Aufsetzen des Landebeins und der erste Schritt mit dem Schlägerbein erfolgen so schnell wie möglich zusammen, am besten fast gleichzeitig.
+
+#### Der Vorhand Überkopf Clear
+
+**Wohin fliegt der Ball?**
+
+Clears fliegen aus dem eigenen Hinterfeld in das gegnerische Hinterfeld. Offensive Clears sind schnell und gefährlich für den Gegner, weil sie außerhalb seiner Reichweite fliegen. 
+
+Defensive Clears fliegen etwas höher.
+
+**Wann brauchen wir den Schlag?**
+
+Wir nutzen Überkopf-Clears im Hinterfeld bei hohen Treffpunkten.
+
+**Warum brauchen wir den Schlag?**
+
+Clears drängen den Gegner an die Grundlinie und schaffen dadurch Raum in seinem Vorderfeld.
+Angriffsclears haben das Ziel, den Ball hinter den Gegner zu schlagen, sodass für ihn nur ein schwacher Rückschlag möglich ist.
+
+Defensive Clears bringen selbst Zeit, sich wieder in eine gute Position für den nächsten Schlag zu bringen.
+
+**Wie sieht der Schlag aus?**
+
+![alt text](assets/Clear.png)
+
+#### 1. Stundenbeginn
+
+### S6 Drop im Umsprung
+
+### S7 Smash und kurze Abwehr
+
 
 ## Schwimmen
 
@@ -1407,6 +1445,9 @@ Viel Erfolg beim Üben des Drills "2 Kicks + 1 Pull"! 🏊‍♀️🔥
     1. ein Armzug
     2. zwei Beinschläge
     3. ein Armzug
+
+
+
 
 ## Inhaltsfeld (Themenfeld) Outdoor
 

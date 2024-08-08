@@ -19,6 +19,10 @@ script:   https://cdn.jsdelivr.net/chartist.js/latest/chartist.min.js
 
 import: https://raw.githubusercontent.com/liaScript/mermaid_template/master/README.md
 
+import: https://raw.githubusercontent.com/LiaTemplates/CollaborativeDrawing/main/README.md
+
+persistent: true
+
 -->
 
 # Course Main Titel
@@ -48,7 +52,7 @@ You can use common [Markdown](https://github.com/adam-p/markdown-here/wiki/Markd
 
 Images:
 
-![images](https://farm2.static.flickr.com/1618/26701766821_7bea494826.jpg)
+![alt text](assets/Basketball_Taktik.jpg)
 
 
 ### Extensions
@@ -178,10 +182,6 @@ else {
   eval(`@input(0)`);
 </script>
 
-## Drawings
-
-
-
 ## Arbeitsblätter
 
 [Arbeitsblatt Onedrive](https://bsomichelstadtde-my.sharepoint.com/:b:/g/personal/jan_mueller_bso-michelstadt_de/EbhvLBPghXBFi7YxYfdnIt0B3Jlpj1q98NT5s03QBnkeRg?e=DCcuDH)
@@ -191,8 +191,6 @@ else {
 [Arbeitsblatt Relativ](assets/24.pdf)
 
 [Arbeitsblatt Adobe](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1d258f0e-fee7-411e-a481-8a071cc10715)
-
-
 
 
 ## More
@@ -239,47 +237,115 @@ This one will appear on animation step 2 and disappear on 3.
 ## Mermaid
 
 ```@mermaid
-graph TD
-A[Start] --> B{Teilnahme an berufsorientierter Projektprüfung?}
-B --> C{Alle Fächer und Lernbereiche mindestens ausreichend?} | Nein: F[Abschluss nicht möglich]
-C --> D{Nicht ausreichende Leistungen?} | Nein: E[Abschluss möglich]
-D --> G{Ausgleich möglich?} | Nein: H[Abschluss nicht möglich]
-G --> I{Ausgleichsbedingungen erfüllt?} | Nein: H[Abschluss nicht möglich]
-I --> J[Abschluss möglich] | Nein: H[Abschluss nicht möglich]
-
-```
-
-```@mermaid
 gantt
-    dateFormat YYYY-MM-DD
-    section Fitness (E.3)
-        KW5     :2024-01-29, 1d
-        KW6     :2024-02-05, 1d
+    dateFormat  YYYY-MM-DD
+    title       Adding GANTT diagram functionality to mermaid
+    excludes    weekends
 
-    section Badminton
-        KW8     :2024-02-19, 1d
-        KW9     :2024-02-26, 1d
-        KW10    :2024-03-04, 1d
-        KW11    :2024-03-11, 1d
-        KW12    :2024-03-18, 1d
+    section A section
+    Completed task            :done,    des1, 2014-01-06,2014-01-08
+    Active task               :active,  des2, 2014-01-09, 3d
+    Future task               :         des3, after des2, 5d
+    Future task2              :         des4, after des3, 5d
 
-    section Schwimmen (E.1)
-        KW16    :2024-04-15, 1d
-        KW17    :2024-04-22, 1d
-        KW18    :2024-04-29, 1d
-        KW19    :2024-05-06, 1d
-        KW20    :2024-05-13, 1d
-        KW22    :2024-05-27, 1d
-    
-    section ?? E.??
-        KW23    :2024-06-03, 1d
-        KW24    :2024-06-10, 1d
-        KW25    :2024-06-17, 1d
-        KW26    :2024-06-24, 1d
-        KW27    :2024-07-01, 1d
-        KW28    :2024-07-08, 1d
-  
+    section Critical tasks
+    Completed task in the critical line :crit, done, 2014-01-06,24h
+    Implement parser and jison          :crit, done, after des1, 2d
+    Create tests for parser             :crit, active, 3d
+    Future task in critical line        :crit, 5d
+    Create tests for renderer           :2d
+    Add to mermaid                      :until isadded
+    Functionality added                 :milestone, isadded, 2014-01-25, 0d
+
+    section Documentation
+    Describe gantt syntax               :active, a1, after des1, 3d
+    Add gantt diagram to demo page      :after a1  , 20h
+    Add another diagram to demo page    :doc1, after a1  , 48h
+
+    section Last section
+    Describe gantt syntax               :after doc1, 3d
+    Add gantt diagram to demo page      :20h
+    Add another diagram to demo page    :48h
 ```
+
 ## Tafelbild
 
 ![alt text](assets/tafelbild.excalidraw.png)
+
+## ASCII-Art 
+
+``` ascii 
+
+                +-----------------------------------------+            
+                | Wöchentliches sichten der Anwesenheiten |            
+                | in der Klassenmappe in Mein Unterricht  |            
+                +--------------------+--------------------+            
+                                     |                                 
+                           nach fünf |Fehltagen                        
+                                     |                                 
+            +------------------------v---------------------------+     
+            | Automatischer Hinweis in der Anwesenheitsübersicht |     
+            | der Klassenmappe in Mein Unterricht                |     
+            +------------------------+---------------------------+     
+                                     |                                 
+                                     |                                 
+                                     |                                 
+                     +---------------v-----------------+               
+                     | Sind die Fehltage entschuldigt? |               
+                     +---------------+-----------------+               
+                                     |                                 
+                                    nein                               
+                                     |                                 
+              +----------------------v--------------------------+      
+              | Entschuldigung bei den Erziehungsberechtigten   |      
+              | mit Abgabefrist von drei Schultagen einfordern! |      
+              +----------------------+--------------------------+      
+                                     |                                 
+                                     |                                 
+                                     |                                 
+                   +-----------------v----------------------+          
+                   | Wird eine Entschuldigung nachgereicht? |          
+                   +----------------------------------------+          
+                   |                                        |          
+                  nein                                     ja          
+                   |                                        |          
++------------------v----------------+ +---------------------v---------+
+| schriftliche Mahnung an die       | | Entschuldigung im Schulportal |
+| Erziehungsberechtigten versenden! | | eintragen!                    |
++------------------+----------------+ +-------------------------------+
+                   |                                                   
+                   |                                                   
+                   |                                                   
+     +-------------v----------+                                        
+     | Elterngespräch führen! +------+                                 
+     +------------------------+      |                                 
+                                     |                                 
+                                     |                                 
+                                     |                                 
+                 +-------------------v----------------+                
+                 | Tritt eine Verhaltensänderung ein? |                
+                 +-------------------+----------------+                
+                                     |                                 
+                                    nein                               
+                                     |                                 
+            +------------------------v--------------------+            
+            |  Stellen eines Antrags auf Einleitung eines |            
+            |  Ordnungswidrigkeitsverfahrens!             |            
+            +---------------------------------------------+            
+                             
+```
+## Whiteboards
+
+![Tldraw](https://www.tldraw.com/ro/6Uoz8hwn8iu031yeYY9ZC?v=0,-100,1385,885&p=page)
+
+<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.tldraw.com/ro/6Uoz8hwn8iu031yeYY9ZC?v=0,-100,1385,885&p=page' style='border:0'></iframe></div>
+
+<style>.embed-container { position: relative; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.tldraw.com/ro/6Uoz8hwn8iu031yeYY9ZC?v=0,-100,1385,885&p=page' style='border:0'></iframe></div>
+
+<div class="container">
+  <iframe class="responsive-iframe"; style="width: 100%; src="https://www.tldraw.com/ro/6Uoz8hwn8iu031yeYY9ZC?v=0,-100,1385,885&p=page"></iframe>
+</div>
+
+@Collaborative.lines(640,320,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg/1280px-Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg)
+
+@[Collaborative.lines(640,320)](assets/tafelbild.excalidraw.png)
