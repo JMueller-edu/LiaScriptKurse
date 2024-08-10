@@ -188,7 +188,7 @@ else {
 
 [Arbeitsblatt Github](https://github.com/JMueller-edu/LiaScriptKurse/blob/ea3700db3fce55afac3e2b70232f4916042364a5/assets/24.pdf)
 
-??[Arbeitsblatt Relativ](assets/24.pdf)
+[Arbeitsblatt Relativ](assets/24.pdf)
 
 [Arbeitsblatt Adobe](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1d258f0e-fee7-411e-a481-8a071cc10715)
 
