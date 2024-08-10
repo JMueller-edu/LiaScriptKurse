@@ -184,9 +184,11 @@ else {
 
 ## Arbeitsblätter
 
-[Arbeitsblatt Onedrive](https://bsomichelstadtde-my.sharepoint.com/:b:/g/personal/jan_mueller_bso-michelstadt_de/EbhvLBPghXBFi7YxYfdnIt0B3Jlpj1q98NT5s03QBnkeRg?e=DCcuDH)
+[Arbeitsblatt Onedrive BSO](https://bsomichelstadtde-my.sharepoint.com/:b:/g/personal/jan_mueller_bso-michelstadt_de/EbhvLBPghXBFi7YxYfdnIt0B3Jlpj1q98NT5s03QBnkeRg?e=DCcuDH)
 
 [Arbeitsblatt Github](https://github.com/JMueller-edu/LiaScriptKurse/blob/ea3700db3fce55afac3e2b70232f4916042364a5/assets/24.pdf)
+
+[Arbeitsblatt Onedrive Prifat](https://1drv.ms/b/s!Av5GReGJQCawu3Aq6L0jlh1lHQTo?e=qf6Md4)
 
 [Arbeitsblatt Relativ](assets/24.pdf)
 
@@ -194,6 +196,7 @@ else {
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="assets/24.pdf" width="100%" height="100%" style="position:absolute" frameBorder="0" class="pdf-embed" allowFullScreen></iframe></div>
 
+??[Arbeitsblatt Nextcloud](https://nc3.jaba.hosting/s/t75w6g9eNPX8FbA)
 
 
 ## More
