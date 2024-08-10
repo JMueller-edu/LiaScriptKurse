@@ -192,36 +192,9 @@ else {
 
 [Arbeitsblatt Adobe](https://acrobat.adobe.com/id/urn:aaid:sc:EU:1d258f0e-fee7-411e-a481-8a071cc10715)
 
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="assets/24.pdf" width="100%" height="100%" style="position:absolute" frameBorder="0" class="pdf-embed" allowFullScreen></iframe></div>
 
-<div id="adobe-dc-view" style="height: 360px; width: 500px;"></div>
 
-<script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
-
-<script type="text/javascript">
-  document.addEventListener("adobe_dc_view_sdk.ready", function(){
-    var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
-    adobeDCView.previewFile({
-      content:{ location:
-        { url: "https://acrobatservices.adobe.com/view-sdk-demo/PDFs/Bodea%20Brochure.pdf"}},
-      metaData:{fileName: "Bodea Brochure.pdf"}
-    },
-    {
-      embedMode: "SIZED_CONTAINER"
-    });
-  });
-</script>
-
-<div id="adobe-dc-view"></div>
-<script src="https://acrobatservices.adobe.com/view-sdk/viewer.js"></script>
-<script type="text/javascript">
-	document.addEventListener("adobe_dc_view_sdk.ready", function(){ 
-		var adobeDCView = new AdobeDC.View({clientId: "<YOUR_CLIENT_ID>", divId: "adobe-dc-view"});
-		adobeDCView.previewFile({
-			content:{location: {url: "https://acrobatservices.adobe.com/view-sdk-demo/PDFs/Bodea Brochure.pdf"}},
-			metaData:{fileName: "Bodea Brochure.pdf"}
-		}, {});
-	});
-</script>
 
 ## More
 
