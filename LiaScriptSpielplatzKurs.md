@@ -342,16 +342,8 @@ gantt
 ```
 ## Whiteboards
 
-![Tldraw](https://www.tldraw.com/ro/6Uoz8hwn8iu031yeYY9ZC?v=0,-100,1385,885&p=page)
-
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://acrobat.adobe.com/id/urn:aaid:sc:EU:1d258f0e-fee7-411e-a481-8a071cc10715' style='border:0'></iframe></div>
-
-<style>.embed-container { position: relative; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.tldraw.com/r/UhzZ3O1WEVwy6iYKLdlMn?v=0,-100,1385,885&p=page' style='border:0'></iframe></div>
-
-<div class="container">
-  <iframe class="responsive-iframe"; style="width: 100%; src="https://www.tldraw.com/ro/6Uoz8hwn8iu031yeYY9ZC?v=0,-100,1385,885&p=page"></iframe>
-</div>
+??[Tldraw](https://www.tldraw.com/r/UhzZ3O1WEVwy6iYKLdlMn?v=0,-100,1385,885&p=A2)
 
 @Collaborative.lines(640,320,https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg/1280px-Pieter_Brueghel_the_Elder_-_The_Dutch_Proverbs_-_Google_Art_Project.jpg)
 
-@[Collaborative.lines(640,320)](assets/tafelbild.excalidraw.png)
+@[Collaborative.lines(640,450)](assets/tafelbild.excalidraw.png)
